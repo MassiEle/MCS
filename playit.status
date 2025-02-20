@@ -1,139 +1,504 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1740061302369 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1740066328283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061305654 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066331438 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061310205 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066334802 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061313501 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066337959 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061316890 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066341289 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061320066 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066344477 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061323227 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066347768 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061326483 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066351057 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061329636 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066354216 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061332910 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066357365 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061336309 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066360562 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061339558 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066363893 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061342752 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066367189 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061345914 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066370536 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061349082 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066373832 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061352226 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066376995 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061355441 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066380157 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061358595 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066383445 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061361735 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066386591 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061364886 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066389886 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061368070 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066393141 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061371487 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066396492 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061374958 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066399939 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061378168 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066403095 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061381328 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066406411 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061384486 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066409640 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061387708 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066412937 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1740061390943 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1740066416094 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066419337 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066422489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066426065 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066429245 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066432451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066435640 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066438843 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066442300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066445485 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066448773 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066452068 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066455275 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066458427 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066461586 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066465430 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066469743 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066472963 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066476119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066479292 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066482463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066485815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066489009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066492231 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066496500 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066499655 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066502881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066506234 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066509494 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066512640 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066515788 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066518928 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066522071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066525336 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066528715 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066532096 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066535396 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066538564 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066542024 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066546242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066549520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066552895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066556407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066559750 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066563033 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066566222 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066569446 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066572664 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066575902 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066579074 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066582310 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066585576 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066588754 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066592085 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066595495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066598917 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066602171 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066605467 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066608824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066612164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066615445 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066618723 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066621879 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066626146 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066630321 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066634578 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066637722 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066641195 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066644346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066647556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066650907 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066654781 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066658037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+associated-bluetooth.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1740066661207 tunnel running, 1 tunnels registered
 
 
 TUNNELS
