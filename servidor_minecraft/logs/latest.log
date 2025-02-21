@@ -1,127 +1,125 @@
-[20Feb2025 17:11:16.119] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[20Feb2025 17:11:16.126] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[20Feb2025 17:11:16.740] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[20Feb2025 17:11:16.791] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MCS/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[20Feb2025 17:11:17.170] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MCS/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[20Feb2025 17:11:17.171] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MCS/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Feb2025 17:11:17.172] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MCS/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Feb2025 17:11:17.174] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MCS/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Feb2025 17:11:17.611] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
-[20Feb2025 17:11:19.733] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Feb2025 17:11:19.902] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20Feb2025 17:11:19.941] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Feb2025 17:11:20.049] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Feb2025 17:11:20.077] [main/WARN] [mixin/]: Reference map 'createframed.refmap.json' for createframed.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Feb2025 17:11:20.107] [main/WARN] [mixin/]: Reference map 'CreateLiquidFuel.refmap.json' for createliquidfuel.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Feb2025 17:11:20.127] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[20Feb2025 17:11:21.295] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[20Feb2025 17:11:21.322] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
-[20Feb2025 17:11:21.324] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
-[20Feb2025 17:11:21.325] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor
-[20Feb2025 17:11:21.371] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[20Feb2025 17:11:21.371] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[20Feb2025 17:11:21.371] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found mixins.create_sa.json:AbstractClientPlayerMixin
-[20Feb2025 17:11:21.535] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
-[20Feb2025 17:11:21.536] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
-[20Feb2025 17:11:21.782] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20Feb2025 17:11:27.720] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
-[20Feb2025 17:11:27.974] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
-[20Feb2025 17:11:28.855] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[20Feb2025 17:11:28.861] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[20Feb2025 17:11:28.914] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
-[20Feb2025 17:11:28.999] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[20Feb2025 17:11:29.007] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[20Feb2025 17:11:30.286] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[20Feb2025 17:11:30.713] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[20Feb2025 17:11:30.745] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 3 milliseconds
-[20Feb2025 17:11:30.759] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[20Feb2025 17:11:30.765] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[20Feb2025 17:11:30.771] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[20Feb2025 17:11:30.772] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[20Feb2025 17:11:30.774] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[20Feb2025 17:11:30.775] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[20Feb2025 17:11:30.776] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[20Feb2025 17:11:30.904] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[20Feb2025 17:11:30.905] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[20Feb2025 17:11:31.131] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[20Feb2025 17:11:31.504] [modloading-worker-0/INFO] [creategoggles/]: CreateGoggles init
-[20Feb2025 17:11:31.513] [modloading-worker-0/INFO] [creategoggles/]: cgblocks
-[20Feb2025 17:11:31.514] [modloading-worker-0/INFO] [creategoggles/]: cgitems
-[20Feb2025 17:11:31.526] [modloading-worker-0/INFO] [creategoggles/]: cgblockentities
-[20Feb2025 17:11:31.540] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:trim_pattern / creategoggles:goggle]
-[20Feb2025 17:11:31.540] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:trim_material / creategoggles:goggle_material]
-[20Feb2025 17:11:31.540] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:root / minecraft:trim_pattern]
-[20Feb2025 17:11:31.545] [modloading-worker-0/INFO] [creategoggles/]: CGItemModifiers register false
-[20Feb2025 17:11:31.591] [modloading-worker-0/INFO] [creategoggles/]: CreateGogglesForge init
-[20Feb2025 17:11:31.655] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[20Feb2025 17:11:34.982] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.983] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.984] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.984] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.984] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.984] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:34.984] [main/INFO] [Create Deco/]: placard tooltip was null
-[20Feb2025 17:11:35.577] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[20Feb2025 17:11:35.580] [Thread-2/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[20Feb2025 17:11:35.581] [Thread-2/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[20Feb2025 17:11:35.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
-[20Feb2025 17:11:35.679] [modloading-worker-0/INFO] [com.tom.createterminal.CreateTerminals/]: Create Contraption Terminals starting
-[20Feb2025 17:11:35.699] [modloading-worker-0/INFO] [creategoggles/]: Create Goggles Setup
-[20Feb2025 17:11:35.700] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[20Feb2025 17:11:35.726] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[20Feb2025 17:11:35.769] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
-[20Feb2025 17:11:35.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.2.0+mc.1.20.1-forge Target: null
-[20Feb2025 17:11:35.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
-[20Feb2025 17:11:36.018] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[20Feb2025 17:11:36.019] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[20Feb2025 17:11:36.019] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[20Feb2025 17:11:36.019] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[20Feb2025 17:11:36.020] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[20Feb2025 17:11:36.020] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[20Feb2025 17:11:36.020] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[20Feb2025 17:11:36.020] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[20Feb2025 17:11:36.238] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[20Feb2025 17:11:36.248] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[20Feb2025 17:11:36.249] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at blusunrize.immersiveengineering.common.util.compat.jade.IEWailaPlugin
-[20Feb2025 17:11:36.252] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[20Feb2025 17:11:36.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: UP_TO_DATE Current: 4.3.2 Target: null
-[20Feb2025 17:11:36.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Feb2025 17:11:36.269] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[20Feb2025 17:11:36.275] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[20Feb2025 17:11:36.280] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[20Feb2025 17:11:36.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
-[20Feb2025 17:11:36.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
-[20Feb2025 17:11:36.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: UP_TO_DATE Current: 0.9.4-mc1.20.1 Target: null
-[20Feb2025 17:11:36.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.20.1/changelog.json
-[20Feb2025 17:11:36.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: AHEAD Current: 1.20.1-10.2.0-183 Target: null
-[20Feb2025 17:11:36.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
-[20Feb2025 17:11:36.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.2.j-55 Target: null
-[20Feb2025 17:11:36.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[20Feb2025 17:11:37.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[20Feb2025 17:11:37.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[20Feb2025 17:11:37.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[20Feb2025 17:11:37.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcontraptionterminals] Starting version check at https://raw.githubusercontent.com/tom5454/Create-Contraption-Terminals/main/version-check.json
-[20Feb2025 17:11:37.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcontraptionterminals] Found status: BETA Current: 1.1.0 Target: 1.1.0
-[20Feb2025 17:11:37.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[20Feb2025 17:11:37.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
-[20Feb2025 17:11:37.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[20Feb2025 17:11:37.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
-[20Feb2025 17:11:37.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
-[20Feb2025 17:11:37.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[20Feb2025 17:11:41.613] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Feb2025 17:11:46.148] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MCS/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
-[20Feb2025 17:11:46.149] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MCS/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
-[20Feb2025 17:11:50.751] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag creategoggles:modifier/goggle_incompatible as it is missing following references: mekanism:mekasuit_helmet (from creategoggles-1.20.1-0.5.6-[FORGE].jar)
-[20Feb2025 17:11:50.757] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create:blaze_burner_fuel/special as it is missing following references: create_dd:seething_ablaze_spawn_egg (from Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar)
-[20Feb2025 17:11:51.342] [Worker-Main-4/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
+[21Feb2025 12:16:28.888] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Feb2025 12:16:28.896] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Feb2025 12:16:32.744] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Feb2025 12:16:32.849] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MCS/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Feb2025 12:16:33.468] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MCS/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Feb2025 12:16:33.471] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MCS/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Feb2025 12:16:33.472] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MCS/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Feb2025 12:16:33.473] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MCS/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Feb2025 12:16:34.197] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[21Feb2025 12:16:37.009] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21Feb2025 12:16:37.203] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Feb2025 12:16:37.305] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Feb2025 12:16:37.503] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Feb2025 12:16:37.523] [main/WARN] [mixin/]: Reference map 'createframed.refmap.json' for createframed.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Feb2025 12:16:37.659] [main/WARN] [mixin/]: Reference map 'CreateLiquidFuel.refmap.json' for createliquidfuel.mixins.json could not be read. If this is a development environment you can ignore this message
+[21Feb2025 12:16:37.686] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[21Feb2025 12:16:39.200] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[21Feb2025 12:16:39.251] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
+[21Feb2025 12:16:39.252] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
+[21Feb2025 12:16:39.252] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor
+[21Feb2025 12:16:39.336] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[21Feb2025 12:16:39.337] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[21Feb2025 12:16:39.337] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found mixins.create_sa.json:AbstractClientPlayerMixin
+[21Feb2025 12:16:39.476] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[21Feb2025 12:16:39.477] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[21Feb2025 12:16:39.804] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21Feb2025 12:16:48.895] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[21Feb2025 12:16:49.129] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[21Feb2025 12:16:50.119] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[21Feb2025 12:16:50.146] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[21Feb2025 12:16:50.354] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[21Feb2025 12:16:50.552] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Feb2025 12:16:50.559] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Feb2025 12:16:52.031] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[21Feb2025 12:16:52.721] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[21Feb2025 12:16:52.756] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[21Feb2025 12:16:52.783] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[21Feb2025 12:16:52.806] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[21Feb2025 12:16:52.807] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[21Feb2025 12:16:52.808] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[21Feb2025 12:16:52.809] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[21Feb2025 12:16:52.810] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[21Feb2025 12:16:52.821] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[21Feb2025 12:16:52.889] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[21Feb2025 12:16:52.890] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[21Feb2025 12:16:53.275] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[21Feb2025 12:16:53.851] [modloading-worker-0/INFO] [creategoggles/]: CreateGoggles init
+[21Feb2025 12:16:53.852] [modloading-worker-0/INFO] [creategoggles/]: cgblocks
+[21Feb2025 12:16:53.853] [modloading-worker-0/INFO] [creategoggles/]: cgitems
+[21Feb2025 12:16:53.910] [modloading-worker-0/INFO] [creategoggles/]: cgblockentities
+[21Feb2025 12:16:53.912] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:trim_pattern / creategoggles:goggle]
+[21Feb2025 12:16:53.912] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:trim_material / creategoggles:goggle_material]
+[21Feb2025 12:16:53.912] [modloading-worker-0/INFO] [creategoggles/]: ResourceKey[minecraft:root / minecraft:trim_pattern]
+[21Feb2025 12:16:53.922] [modloading-worker-0/INFO] [creategoggles/]: CGItemModifiers register false
+[21Feb2025 12:16:53.975] [modloading-worker-0/INFO] [creategoggles/]: CreateGogglesForge init
+[21Feb2025 12:16:53.978] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[21Feb2025 12:16:58.164] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.164] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.164] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.165] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.165] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.165] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.166] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.166] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.166] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.166] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.167] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.174] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.174] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.174] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.175] [main/INFO] [Create Deco/]: placard tooltip was null
+[21Feb2025 12:16:58.888] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[21Feb2025 12:16:58.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[21Feb2025 12:16:58.996] [modloading-worker-0/INFO] [com.tom.createterminal.CreateTerminals/]: Create Contraption Terminals starting
+[21Feb2025 12:16:59.026] [modloading-worker-0/INFO] [creategoggles/]: Create Goggles Setup
+[21Feb2025 12:16:59.027] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[21Feb2025 12:16:59.042] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[21Feb2025 12:16:59.061] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[21Feb2025 12:16:59.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 2.2.0+mc.1.20.1-forge Target: null
+[21Feb2025 12:16:59.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Starting version check at https://api.modrinth.com/updates/create-jetpack/forge_updates.json
+[21Feb2025 12:16:59.503] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[21Feb2025 12:16:59.504] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[21Feb2025 12:16:59.504] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[21Feb2025 12:16:59.504] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[21Feb2025 12:16:59.504] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[21Feb2025 12:16:59.504] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[21Feb2025 12:16:59.505] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[21Feb2025 12:16:59.505] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[21Feb2025 12:16:59.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_jetpack] Found status: UP_TO_DATE Current: 4.3.2 Target: null
+[21Feb2025 12:16:59.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Feb2025 12:16:59.758] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[21Feb2025 12:16:59.775] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[21Feb2025 12:16:59.776] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at blusunrize.immersiveengineering.common.util.compat.jade.IEWailaPlugin
+[21Feb2025 12:16:59.781] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[21Feb2025 12:16:59.792] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[21Feb2025 12:16:59.950] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[21Feb2025 12:16:59.952] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[21Feb2025 12:17:00.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
+[21Feb2025 12:17:00.054] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[21Feb2025 12:17:00.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: UP_TO_DATE Current: 0.9.4-mc1.20.1 Target: null
+[21Feb2025 12:17:00.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.20.1/changelog.json
+[21Feb2025 12:17:00.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: AHEAD Current: 1.20.1-10.2.0-183 Target: null
+[21Feb2025 12:17:00.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Starting version check at https://api.modrinth.com/updates/create-sifting/forge_updates.json
+[21Feb2025 12:17:00.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createsifter] Found status: UP_TO_DATE Current: 1.20.1-1.8.2.j-55 Target: null
+[21Feb2025 12:17:00.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[21Feb2025 12:17:00.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[21Feb2025 12:17:00.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[21Feb2025 12:17:00.575] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[21Feb2025 12:17:00.575] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcontraptionterminals] Starting version check at https://raw.githubusercontent.com/tom5454/Create-Contraption-Terminals/main/version-check.json
+[21Feb2025 12:17:00.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createcontraptionterminals] Found status: BETA Current: 1.1.0 Target: 1.1.0
+[21Feb2025 12:17:00.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[21Feb2025 12:17:00.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
+[21Feb2025 12:17:00.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[21Feb2025 12:17:00.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
+[21Feb2025 12:17:00.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Starting version check at https://api.modrinth.com/updates/slice-and-dice/forge_updates.json
+[21Feb2025 12:17:01.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sliceanddice] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[21Feb2025 12:17:07.017] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Feb2025 12:17:12.770] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MCS/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[21Feb2025 12:17:12.770] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MCS/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[21Feb2025 12:17:27.675] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag creategoggles:modifier/goggle_incompatible as it is missing following references: mekanism:mekasuit_helmet (from creategoggles-1.20.1-0.5.6-[FORGE].jar)
+[21Feb2025 12:17:27.684] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag create:blaze_burner_fuel/special as it is missing following references: create_dd:seething_ablaze_spawn_egg (from Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar)
+[21Feb2025 12:17:28.307] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
@@ -146,7 +144,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	... 13 more
-[20Feb2025 17:11:51.901] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder
+[21Feb2025 12:17:29.213] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/crushing_wheels/special_aluminum_cylinder
 com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -155,7 +153,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
 	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecragft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.readFromJson(ProcessingRecipeSerializer.java:66) ~[create-1.20.1-0.5.1.j.jar%23149!/:0.5.1.j]
 	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.fromJson(ProcessingRecipeSerializer.java:154) ~[create-1.20.1-0.5.1.j.jar%23149!/:0.5.1.j]
 	at com.simibubi.create.content.processing.recipe.ProcessingRecipeSerializer.m_6729_(ProcessingRecipeSerializer.java:21) ~[create-1.20.1-0.5.1.j.jar%23149!/:0.5.1.j]
@@ -185,9 +183,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:51.906] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:51.919] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_catwalk as it's serializer returned null
-[20Feb2025 17:11:51.926] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rubber
+[21Feb2025 12:17:29.231] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.253] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_catwalk as it's serializer returned null
+[21Feb2025 12:17:29.263] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rubber
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -226,8 +224,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:51.929] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/aluminum_plate recipe (createaddition:rolling/aluminum_plate) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:51.938] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_smoked_narrow
+[21Feb2025 12:17:29.265] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/aluminum_plate recipe (createaddition:rolling/aluminum_plate) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.273] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_smoked_narrow
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:smoked_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -266,9 +264,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:smoked_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:51.943] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs as it's serializer returned null
-[20Feb2025 17:11:51.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_from_conversion as it's serializer returned null
-[20Feb2025 17:11:51.961] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rose_wide
+[21Feb2025 12:17:29.278] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs as it's serializer returned null
+[21Feb2025 12:17:29.296] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_from_conversion as it's serializer returned null
+[21Feb2025 12:17:29.303] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rose_wide
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rose_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -313,9 +311,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rose_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:51.970] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:51.985] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:51.990] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_spirit
+[21Feb2025 12:17:29.318] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.343] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.347] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_spirit
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:spirit_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -354,9 +352,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:spirit_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:51.999] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.002] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_beams as it's serializer returned null
-[20Feb2025 17:11:52.003] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder
+[21Feb2025 12:17:29.350] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.351] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_beams as it's serializer returned null
+[21Feb2025 12:17:29.353] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe design_decor:item_application/millstones/special_aluminum_cylinder
 com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -395,7 +393,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.009] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_spirit_wide
+[21Feb2025 12:17:29.358] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_spirit_wide
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:spirit_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -440,7 +438,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:spirit_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rose
+[21Feb2025 12:17:29.368] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rose
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rose_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -479,7 +477,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rose_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.037] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe creategoggles:module_goggle_unit
+[21Feb2025 12:17:29.382] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe creategoggles:module_goggle_unit
 com.google.gson.JsonSyntaxException: Unknown item 'mekanism:alloy_reinforced'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -517,11 +515,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'mekanism:alloy_reinforced'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.045] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate as it's serializer returned null
-[20Feb2025 17:11:52.045] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.046] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/steel_plate recipe (createaddition:rolling/steel_plate) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.047] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.055] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_spirit_narrow
+[21Feb2025 12:17:29.388] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate as it's serializer returned null
+[21Feb2025 12:17:29.389] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.390] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/steel_plate recipe (createaddition:rolling/steel_plate) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.391] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.399] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_spirit_narrow
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:spirit_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -560,13 +558,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:spirit_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.066] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block as it's serializer returned null
-[20Feb2025 17:11:52.067] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board as it's serializer returned null
-[20Feb2025 17:11:52.071] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_steps as it's serializer returned null
-[20Feb2025 17:11:52.077] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence as it's serializer returned null
-[20Feb2025 17:11:52.081] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam as it's serializer returned null
-[20Feb2025 17:11:52.083] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/steel_ingot recipe (createaddition:rolling/steel_ingot) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rose_narrow
+[21Feb2025 12:17:29.405] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block as it's serializer returned null
+[21Feb2025 12:17:29.407] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board as it's serializer returned null
+[21Feb2025 12:17:29.409] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_steps as it's serializer returned null
+[21Feb2025 12:17:29.418] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence as it's serializer returned null
+[21Feb2025 12:17:29.423] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam as it's serializer returned null
+[21Feb2025 12:17:29.424] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/steel_ingot recipe (createaddition:rolling/steel_ingot) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.430] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rose_narrow
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rose_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -605,8 +603,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rose_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.120] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall as it's serializer returned null
-[20Feb2025 17:11:52.122] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_smoked
+[21Feb2025 12:17:29.449] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall as it's serializer returned null
+[21Feb2025 12:17:29.451] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_smoked
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:smoked_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -645,10 +643,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:smoked_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.131] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.133] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step as it's serializer returned null
-[20Feb2025 17:11:52.134] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/aluminum_ingot recipe (createaddition:rolling/aluminum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.137] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_smoked_wide
+[21Feb2025 12:17:29.463] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.465] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step as it's serializer returned null
+[21Feb2025 12:17:29.466] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/aluminum_ingot recipe (createaddition:rolling/aluminum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.469] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_smoked_wide
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:smoked_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -693,13 +691,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:smoked_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.152] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_box as it's serializer returned null
-[20Feb2025 17:11:52.154] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab as it's serializer returned null
-[20Feb2025 17:11:52.166] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.173] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.181] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/lead_plate recipe (createaddition:rolling/lead_plate) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.182] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_panels as it's serializer returned null
-[20Feb2025 17:11:52.183] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_netherless:soul_sand_from_sequenced_assembly
+[21Feb2025 12:17:29.481] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_box as it's serializer returned null
+[21Feb2025 12:17:29.483] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab as it's serializer returned null
+[21Feb2025 12:17:29.489] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.495] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.501] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/lead_plate recipe (createaddition:rolling/lead_plate) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.502] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_from_panels as it's serializer returned null
+[21Feb2025 12:17:29.503] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create_netherless:soul_sand_from_sequenced_assembly
 com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_soul_sand'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -744,7 +742,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_netherless:incomplete_
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.186] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rubber_narrow
+[21Feb2025 12:17:29.504] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rubber_narrow
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -783,7 +781,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.204] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rubber_wide
+[21Feb2025 12:17:29.534] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe railways:sequenced_assembly/track_create_dd_rubber_wide
 com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -828,346 +826,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Feb2025 17:11:52.214] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_from_slabs as it's serializer returned null
-[20Feb2025 17:11:52.216] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[20Feb2025 17:11:52.236] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 53 recipes
-[20Feb2025 17:11:52.240] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
-[20Feb2025 17:11:52.465] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6254 advancements
-[20Feb2025 17:11:52.590] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[20Feb2025 17:11:52.597] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[20Feb2025 17:11:56.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[20Feb2025 17:11:56.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Feb2025 17:11:56.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Feb2025 17:11:56.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Feb2025 17:11:56.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Feb2025 17:11:56.625] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Feb2025 17:11:56.739] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Feb2025 17:11:56.739] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Feb2025 17:11:56.740] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Feb2025 17:11:56.740] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Feb2025 17:11:56.780] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[20Feb2025 17:11:56.781] [Thread-2/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[20Feb2025 17:11:56.782] [Thread-2/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[20Feb2025 17:11:56.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Feb2025 17:11:59.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Feb2025 17:12:03.414] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 17:12:03.415] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 17:12:03.416] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 17:12:03.417] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 17:12:03.417] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 17:12:03.418] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 17:12:03.418] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 17:12:03.420] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Feb2025 17:12:03.891] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[20Feb2025 17:12:04.410] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
-[20Feb2025 17:12:04.582] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4692 ms
-[20Feb2025 17:12:04.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.830s)! For help, type "help"
-[20Feb2025 17:12:04.643] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Feb2025 17:12:04.645] [Server thread/INFO] [com.mangomilk.design_decor.DesignDecor/]: :3
-[20Feb2025 17:12:04.742] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 diamond_backtank, missing knowledge for {1 diamond_chestplate=1.0}
-[20Feb2025 17:12:04.743] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 radiator, missing knowledge for {1 water_bucket=0.25}
-[20Feb2025 17:12:04.743] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 leather_backtank, missing knowledge for {1 leather_chestplate=1.0}
-[20Feb2025 17:12:04.743] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 chainmail_backtank, missing knowledge for {1 chainmail_chestplate=1.0}
-[20Feb2025 17:12:04.743] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 84 milliseconds
-[20Feb2025 17:12:18.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotEternal_BG[/127.127.113.80:49883] logged in with entity id 59 at (-391.81098380904683, -24.0, 59.215295003482616)
-[20Feb2025 17:12:18.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG joined the game
-[20Feb2025 17:12:18.199] [Netty Epoll Server IO #2/INFO] [immersiveengineering/]: Recipes for potions: minecraft:long_water_breathing, minecraft:strong_harming, minecraft:awkward, minecraft:swiftness, minecraft:long_slow_falling, minecraft:strong_swiftness, minecraft:strong_regeneration, minecraft:leaping, minecraft:slow_falling, minecraft:water_breathing, minecraft:harming, minecraft:weakness, minecraft:long_fire_resistance, minecraft:long_swiftness, minecraft:poison, minecraft:turtle_master, minecraft:regeneration, minecraft:water, minecraft:long_turtle_master, minecraft:long_invisibility, minecraft:healing, minecraft:fire_resistance, minecraft:strong_leaping, minecraft:long_regeneration, minecraft:strong_healing, minecraft:invisibility, minecraft:slowness, minecraft:long_poison, minecraft:long_slowness, minecraft:strong_strength, minecraft:strong_poison, minecraft:long_strength, minecraft:long_leaping, minecraft:strong_slowness, minecraft:long_weakness, minecraft:strong_turtle_master, minecraft:strength, minecraft:long_night_vision, minecraft:night_vision
-[20Feb2025 17:12:18.225] [Server thread/INFO] [Jade/]: Syncing config to ImNotEternal_BG (59ea1069-c9e9-3651-a2ee-f8a83fd8ac4e)
-[20Feb2025 17:12:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was shot by Skeleton
-[20Feb2025 17:12:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
-[20Feb2025 17:13:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
-[20Feb2025 17:13:55.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
-[20Feb2025 17:14:23.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:50145] logged in with entity id 713 at (-386.2934327718451, -26.823240724935765, 57.11426065403824)
-[20Feb2025 17:14:23.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
-[20Feb2025 17:14:23.123] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)[20Feb2025 17:14:45.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported filopopo to ImNotEternal_BG]
-[20Feb2025 17:19:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
-[20Feb2025 17:19:33.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
-[20Feb2025 17:19:52.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Diamonds!]
-[20Feb2025 17:21:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
-[20Feb2025 17:21:55.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
-[20Feb2025 17:22:22.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo has made the advancement [Diamonds!]
-[20Feb2025 17:22:36.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
-[20Feb2025 17:23:04.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
-[20Feb2025 17:23:09.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
-[20Feb2025 17:24:05.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
-[20Feb2025 17:25:11.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to filopopo]
-[20Feb2025 17:25:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
-[20Feb2025 17:29:41.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
-[20Feb2025 17:30:41.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
-[20Feb2025 17:31:02.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
-[20Feb2025 17:31:44.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Gave 12 [Diamond] to ImNotEternal_BG]
-[20Feb2025 17:32:16.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by Zombie
-[20Feb2025 17:34:32.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Cover Me with Diamonds]
-[20Feb2025 17:35:07.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to 322 targets]
-[20Feb2025 17:36:17.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
-[20Feb2025 17:37:24.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
-[20Feb2025 17:44:58.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Gave 20 [Bread] to filopopo]
-[20Feb2025 17:49:17.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Gave 64 [Bread] to ImNotEternal_BG]
-[20Feb2025 17:51:27.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5325, l='ServerLevel[world]', x=-227.30, y=70.00, z=184.70] died, message: 'Unemployed was slain by Zombie'
-[20Feb2025 17:54:14.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Gave 3 [Leather] to ImNotEternal_BG]
-[20Feb2025 17:56:29.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Gave 24 [String] to ImNotEternal_BG]
-[20Feb2025 17:57:11.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5362, l='ServerLevel[world]', x=-241.30, y=66.00, z=138.14] died, message: 'Unemployed was slain by Zombie'
-[20Feb2025 17:58:32.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to filopopo]
-[20Feb2025 18:00:21.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to filopopo]
-[20Feb2025 18:01:03.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was killed
-[20Feb2025 18:01:03.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Killed filopopo]
-[20Feb2025 18:03:06.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to filopopo]
-[20Feb2025 18:06:25.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
-[20Feb2025 18:06:36.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
-[20Feb2025 18:07:43.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo drowned
-[20Feb2025 18:08:29.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to filopopo]
-[20Feb2025 18:08:55.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:56159] logged in with entity id 16714 at (4.5, 79.0, 32.5)
-[20Feb2025 18:08:55.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 18:08:55.659] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 18:11:14.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported filopopo to ImNotEternal_BG]
-[20Feb2025 18:12:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was impaled by Drowned
-[20Feb2025 18:13:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to filopopo]
-[20Feb2025 18:13:20.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ImNotEternal_BG) moved wrongly! 0.6571255216435645
-[20Feb2025 18:13:20.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ImNotEternal_BG) moved wrongly! 0.6862035086585365
-[20Feb2025 18:13:20.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ImNotEternal_BG) moved wrongly! 0.7242642081812392
-[20Feb2025 18:14:37.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Monster Hunter]
-[20Feb2025 18:14:48.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Acquire Hardware]
-[20Feb2025 18:16:13.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Suit Up]
-[20Feb2025 18:16:21.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Isn't It Iron Pick]
-[20Feb2025 18:18:04.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> mi si sono scaricate le cuffie
-[20Feb2025 18:19:15.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> aahahahahaha
-[20Feb2025 18:19:24.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> run nigger run
-[20Feb2025 18:19:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> ok
-[20Feb2025 18:21:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to filopopo]
-[20Feb2025 18:22:50.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ExAli56) moved wrongly! 0.2998722978869682
-[20Feb2025 18:22:50.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ExAli56) moved wrongly! 0.33452606644165106
-[20Feb2025 18:22:50.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ExAli56) moved wrongly! 0.36593676091347277
-[20Feb2025 18:22:50.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ExAli56) moved wrongly! 0.3943432809122501
-[20Feb2025 18:22:51.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ExAli56) moved wrongly! 0.4199974572593799
-[20Feb2025 18:22:51.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ExAli56) moved wrongly! 0.4431452790689969
-[20Feb2025 18:24:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> negro
-[20Feb2025 18:25:22.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Stone Age]
-[20Feb2025 18:27:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> AIUTOOOOS
-[20Feb2025 18:27:16.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> hahahha negro
-[20Feb2025 18:28:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo tried to swim in lava to escape ImNotEternal_BG
-[20Feb2025 18:29:04.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG burned to death
-[20Feb2025 18:29:06.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> E NIENTEEEEEEEEEEEE
-[20Feb2025 18:29:19.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to filopopo]
-[20Feb2025 18:29:25.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> negro+
-[20Feb2025 18:29:27.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> TP...
-[20Feb2025 18:29:38.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> raga uscite dal server che dormo cosi potete spostarvi meglio????
-[20Feb2025 18:30:04.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo drowned
-[20Feb2025 18:30:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> MASSIMO?
-[20Feb2025 18:30:47.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> che vuoi
-[20Feb2025 18:30:55.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> TI HO SEMINATO
-[20Feb2025 18:31:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> no mi sono rotto io i coglioni
-[20Feb2025 18:31:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by Iron Golem
-[20Feb2025 18:31:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> AHIA
-[20Feb2025 18:31:40.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> byeù
-[20Feb2025 18:31:42.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG lost connection: Disconnected
-[20Feb2025 18:31:42.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG left the game
-[20Feb2025 18:32:42.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> ma mi senti???
-[20Feb2025 18:33:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> HO LE CUFFIE SCARICHE
-[20Feb2025 18:33:28.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
-[20Feb2025 18:33:28.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 18:33:28.099] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[20Feb2025 18:33:30.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo lost connection: Timed out
-[20Feb2025 18:33:30.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo left the game
-[20Feb2025 18:34:55.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:45233] logged in with entity id 36683 at (823.491779581121, 56.0, 753.0750758561596)
-[20Feb2025 18:34:55.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 18:34:55.536] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 18:44:42.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was shot by Skeleton
-[20Feb2025 18:53:14.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:55731] logged in with entity id 39662 at (-385.9719935834993, 63.0, 199.71505936821347)
-[20Feb2025 18:53:14.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
-[20Feb2025 18:53:14.728] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
-[20Feb2025 18:53:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> noooooooo
-[20Feb2025 18:53:21.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> calll istant
-[20Feb2025 18:53:49.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> ti sto chiamano
-[20Feb2025 18:53:53.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> chiamando
-[20Feb2025 18:53:54.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> su ds
-[20Feb2025 18:56:50.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was blown up by Creeper
-[20Feb2025 18:57:02.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=80, z=29}
-[20Feb2025 18:58:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Stone Age]
-[20Feb2025 19:01:15.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Timed out
-[20Feb2025 19:01:15.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
-[20Feb2025 19:05:52.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 tried to swim in lava
-[20Feb2025 19:06:13.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 19:06:13.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 19:06:52.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:54169] logged in with entity id 43308 at (835.5609792764755, 55.0, 749.0466628777679)
-[20Feb2025 19:06:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 19:06:52.924] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 19:08:37.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:52719] logged in with entity id 43748 at (-226.78088666262457, 60.0, 180.5561943160622)
-[20Feb2025 19:08:37.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
-[20Feb2025 19:08:37.835] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
-[20Feb2025 19:08:48.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> 828 745
-[20Feb2025 19:11:14.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44753, l='ServerLevel[world]', x=210.72, y=72.00, z=416.63] died, message: 'Unemployed suffocated in a wall'
-[20Feb2025 19:12:06.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was doomed to fall by Stray
-[20Feb2025 19:13:40.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was shot by Skeleton
-[20Feb2025 19:14:57.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Getting an Upgrade]
-[20Feb2025 19:17:09.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47661, l='ServerLevel[world]', x=330.59, y=79.00, z=423.58] died, message: 'Unemployed was slain by Zombie'
-[20Feb2025 19:17:28.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was shot by Stray
-[20Feb2025 19:19:07.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was blown up by Creeper
-[20Feb2025 19:22:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Isn't It Iron Pick]
-[20Feb2025 19:25:31.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was shot by Skeleton
-[20Feb2025 19:26:39.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Getting an Upgrade]
-[20Feb2025 19:28:41.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Diamonds!]
-[20Feb2025 19:30:24.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by Spider
-[20Feb2025 19:31:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Diamonds!]
-[20Feb2025 19:33:01.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Hot Stuff]
-[20Feb2025 19:33:40.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Timed out
-[20Feb2025 19:33:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
-[20Feb2025 19:35:18.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [We Need to Go Deeper]
-[20Feb2025 19:35:19.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
-[20Feb2025 19:36:13.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [A Terrible Fortress]
-[20Feb2025 19:37:09.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Blaze
-[20Feb2025 19:37:41.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 19:37:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 19:38:01.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:47097] logged in with entity id 54309 at (120.5, 49.0, 88.69999998807907)
-[20Feb2025 19:38:01.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 19:38:01.980] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 19:38:29.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Into Fire]
-[20Feb2025 19:38:48.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:53639] logged in with entity id 54463 at (835.452734933141, 56.0, 743.6123022723236)
-[20Feb2025 19:38:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
-[20Feb2025 19:38:48.225] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
-[20Feb2025 19:38:59.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Not Today, Thank You]
-[20Feb2025 19:39:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was burnt to a crisp whilst fighting Blaze
-[20Feb2025 19:39:35.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Into Fire]
-[20Feb2025 19:40:07.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
-[20Feb2025 19:40:07.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 19:40:21.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [We Need to Go Deeper]
-[20Feb2025 19:40:33.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [A Terrible Fortress]
-[20Feb2025 19:41:11.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:52311] logged in with entity id 55325 at (13.942964842002686, 83.0, 71.0397133085514)
-[20Feb2025 19:41:11.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
-[20Feb2025 19:41:11.626] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
-[20Feb2025 19:42:11.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [The Andesite Age]
-[20Feb2025 19:43:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Bonk!]
-[20Feb2025 19:47:12.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was shot by Skeleton
-[20Feb2025 19:53:24.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi fell from a high place
-[20Feb2025 19:55:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <erggmessi> 841 693
-[20Feb2025 19:56:19.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was shot by Skeleton
-[20Feb2025 19:57:14.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by Zombie
-[20Feb2025 19:57:25.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi fell from a high place
-[20Feb2025 19:59:20.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Timed out
-[20Feb2025 19:59:20.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
-[20Feb2025 19:59:27.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:34087] logged in with entity id 62668 at (828.6045090508011, 53.0, 748.3388385437589)
-[20Feb2025 19:59:27.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 19:59:27.922] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 20:01:17.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Blaze
-[20Feb2025 20:05:49.414] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d847026[id=<null>,name=erggmessi,properties={},legacy=false] (/127.91.188.214:36317) lost connection: Disconnected
-[20Feb2025 20:06:15.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:43431] logged in with entity id 65374 at (837.4600160229259, 54.0, 757.6999999880791)
-[20Feb2025 20:06:15.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
-[20Feb2025 20:06:15.925] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
-[20Feb2025 20:06:43.600] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 20:06:43.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 20:06:48.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was blown up by Creeper
-[20Feb2025 20:07:09.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:54547] logged in with entity id 65788 at (844.5, 51.0, 749.0630900732042)
-[20Feb2025 20:07:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 20:07:09.153] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 20:08:00.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <erggmessi> OK
-[20Feb2025 20:10:09.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo has made the advancement [Cover Me with Diamonds]
-[20Feb2025 20:16:13.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo has made the advancement [Not Today, Thank You]
-[20Feb2025 20:16:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by Zombie
-[20Feb2025 20:18:55.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by filopopo
-[20Feb2025 20:20:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi fell from a high place
-[20Feb2025 20:23:32.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was shot by Skeleton
-[20Feb2025 20:25:56.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo hit the ground too hard
-[20Feb2025 20:27:53.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was shot by Skeleton
-[20Feb2025 20:28:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Ice Bucket Challenge]
-[20Feb2025 20:30:47.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi tried to swim in lava
-[20Feb2025 20:31:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <erggmessi> 830 54
-[20Feb2025 20:31:06.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <erggmessi> 751
-[20Feb2025 20:33:59.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
-[20Feb2025 20:33:59.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 20:34:20.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo has made the advancement [We Need to Go Deeper]
-[20Feb2025 20:34:20.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo has made the advancement [A Terrible Fortress]
-[20Feb2025 20:34:24.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by Wither Skeleton
-[20Feb2025 20:34:25.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by Wither Skeleton
-[20Feb2025 20:36:27.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Ol' Betsy]
-[20Feb2025 20:37:36.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by Wither Skeleton
-[20Feb2025 20:39:22.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Disconnected
-[20Feb2025 20:39:22.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
-[20Feb2025 20:41:17.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo lost connection: Disconnected
-[20Feb2025 20:41:17.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo left the game
-[20Feb2025 21:13:04.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:50677] logged in with entity id 81762 at (117.30000001192093, 53.0, 90.04880209242499)
-[20Feb2025 21:13:04.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:13:04.174] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:13:45.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 tried to swim in lava
-[20Feb2025 21:14:04.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:14:04.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:14:36.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:35947] logged in with entity id 82234 at (834.3000000119209, 56.200000047683716, 739.0531485116577)
-[20Feb2025 21:14:36.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:14:36.473] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:15:44.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Wither Skeleton
-[20Feb2025 21:16:06.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:16:06.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:16:26.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:41601] logged in with entity id 82861 at (1327.5262276566323, 64.0, -652.4433714008156)
-[20Feb2025 21:16:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
-[20Feb2025 21:16:26.478] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
-[20Feb2025 21:16:41.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:58345] logged in with entity id 83163 at (842.3000000119209, 52.0, 748.6999999880791)
-[20Feb2025 21:16:41.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:16:41.784] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:17:11.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:17:11.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:19:55.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:35953] logged in with entity id 84537 at (842.3000000119209, 52.0, 748.6999999880791)
-[20Feb2025 21:19:55.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:19:55.631] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:20:35.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was burnt to a crisp whilst fighting Blaze
-[20Feb2025 21:20:37.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> oi
-[20Feb2025 21:21:10.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:21:10.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:21:59.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:42639] logged in with entity id 86491 at (104.5, 73.0, 93.86960695010328)
-[20Feb2025 21:21:59.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:21:59.628] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:22:27.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was fireballed by Blaze
-[20Feb2025 21:22:29.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:22:29.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:23:04.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:33277] logged in with entity id 87018 at (104.5, 73.0, 93.86960695010328)
-[20Feb2025 21:23:04.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:23:04.198] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:24:23.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was fireballed by Blaze
-[20Feb2025 21:25:29.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Wither Skeleton
-[20Feb2025 21:26:04.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:26:04.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:26:28.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:42687] logged in with entity id 89311 at (828.5, 54.0, 751.5)
-[20Feb2025 21:26:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:26:28.229] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:27:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo has made the advancement [Ice Bucket Challenge]
-[20Feb2025 21:29:49.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was fireballed by Blaze
-[20Feb2025 21:30:49.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was doomed to fall by Blaze
-[20Feb2025 21:31:29.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Blaze
-[20Feb2025 21:31:58.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:31:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:32:58.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:45449] logged in with entity id 93990 at (104.5, 73.0, 94.69999998807907)
-[20Feb2025 21:32:58.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:32:58.832] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:33:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Ice Bucket Challenge]
-[20Feb2025 21:35:32.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 tried to swim in lava to escape Blaze
-[20Feb2025 21:36:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Magma Cube
-[20Feb2025 21:36:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Magma Cube
-[20Feb2025 21:38:17.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Magma Cube
-[20Feb2025 21:38:44.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:38:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:39:07.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:40461] logged in with entity id 98032 at (828.5, 54.0, 751.5)
-[20Feb2025 21:39:07.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:39:07.727] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:40:07.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:40:07.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:40:43.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:33493] logged in with entity id 99146 at (104.5, 73.0, 94.22777057975861)
-[20Feb2025 21:40:43.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:40:43.779] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:45:59.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Timed out
-[20Feb2025 21:45:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 21:47:53.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:47229] logged in with entity id 101947 at (-0.12196842236476797, 54.0, 288.6069370423024)
-[20Feb2025 21:47:53.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
-[20Feb2025 21:47:53.531] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
-[20Feb2025 21:50:29.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was slain by Piglin
-[20Feb2025 21:54:05.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
-[20Feb2025 21:54:05.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
-[20Feb2025 22:01:37.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo lost connection: Disconnected
-[20Feb2025 22:01:37.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo left the game
-[20Feb2025 22:38:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[20Feb2025 22:38:31.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Feb2025 22:38:31.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Feb2025 22:38:31.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Feb2025 22:38:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20Feb2025 22:38:31.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20Feb2025 22:38:31.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20Feb2025 22:38:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20Feb2025 22:38:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Feb2025 22:38:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Feb2025 22:38:31.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Feb2025 12:17:29.537] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_from_slabs as it's serializer returned null
+[21Feb2025 12:17:29.538] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[21Feb2025 12:17:29.554] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 53 recipes
+[21Feb2025 12:17:29.557] [main/INFO] [com.possible_triangle.sliceanddice.SliceAndDice/]: Injecting recipes
+[21Feb2025 12:17:29.853] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 6254 advancements
+[21Feb2025 12:17:29.988] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[21Feb2025 12:17:29.997] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[21Feb2025 12:17:34.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Feb2025 12:17:34.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Feb2025 12:17:34.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Feb2025 12:17:34.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Feb2025 12:17:34.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Feb2025 12:17:35.029] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Feb2025 12:17:35.122] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Feb2025 12:17:35.122] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Feb2025 12:17:35.122] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Feb2025 12:17:35.122] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Feb2025 12:17:35.240] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[21Feb2025 12:17:35.241] [Thread-2/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[21Feb2025 12:17:35.243] [Thread-2/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[21Feb2025 12:17:35.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Feb2025 12:17:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Feb2025 12:17:41.637] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:41.668] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:41.670] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:41.671] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:41.672] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:41.746] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:42.241] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:42.739] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:43.241] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:43.737] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:44.250] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:44.765] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Feb2025 12:17:45.238] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[21Feb2025 12:17:45.739] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[21Feb2025 12:17:46.238] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[21Feb2025 12:17:46.608] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7371 ms
+[21Feb2025 12:17:46.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.432s)! For help, type "help"
+[21Feb2025 12:17:46.801] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Feb2025 12:17:46.803] [Server thread/INFO] [com.mangomilk.design_decor.DesignDecor/]: :3
+[21Feb2025 12:17:46.887] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 diamond_backtank, missing knowledge for {1 diamond_chestplate=1.0}
+[21Feb2025 12:17:46.888] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 leather_backtank, missing knowledge for {1 leather_chestplate=1.0}
+[21Feb2025 12:17:46.889] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 radiator, missing knowledge for {1 water_bucket=0.25}
+[21Feb2025 12:17:46.889] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 chainmail_backtank, missing knowledge for {1 chainmail_chestplate=1.0}
+[21Feb2025 12:17:46.890] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 70 milliseconds
+[21Feb2025 12:20:59.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotEternal_BG[/127.127.113.80:48689] logged in with entity id 54 at (81.44021286675742, 63.0, -122.54470561697055)
+[21Feb2025 12:20:59.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG joined the game
+[21Feb2025 12:20:59.401] [Netty Epoll Server IO #3/INFO] [immersiveengineering/]: Recipes for potions: minecraft:long_invisibility, minecraft:fire_resistance, minecraft:strong_healing, minecraft:long_slowness, minecraft:regeneration, minecraft:healing, minecraft:weakness, minecraft:invisibility, minecraft:strong_leaping, minecraft:harming, minecraft:strong_strength, minecraft:long_strength, minecraft:strong_harming, minecraft:long_water_breathing, minecraft:strong_turtle_master, minecraft:long_fire_resistance, minecraft:awkward, minecraft:strong_swiftness, minecraft:poison, minecraft:night_vision, minecraft:leaping, minecraft:slowness, minecraft:strong_poison, minecraft:strength, minecraft:long_leaping, minecraft:water, minecraft:long_regeneration, minecraft:swiftness, minecraft:long_slow_falling, minecraft:long_turtle_master, minecraft:long_poison, minecraft:slow_falling, minecraft:turtle_master, minecraft:long_swiftness, minecraft:strong_regeneration, minecraft:water_breathing, minecraft:long_weakness, minecraft:long_night_vision, minecraft:strong_slowness
+[21Feb2025 12:20:59.563] [Server thread/INFO] [Jade/]: Syncing config to ImNotEternal_BG (59ea1069-c9e9-3651-a2ee-f8a83fd8ac4e)
+[21Feb2025 12:23:34.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 12:25:10.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
