@@ -878,3 +878,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 12:20:59.563] [Server thread/INFO] [Jade/]: Syncing config to ImNotEternal_BG (59ea1069-c9e9-3651-a2ee-f8a83fd8ac4e)
 [21Feb2025 12:23:34.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
 [21Feb2025 12:25:10.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 12:35:18.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:53913] logged in with entity id 2943 at (-8.699999988079071, 83.0, 169.32861436351962)
+[21Feb2025 12:35:18.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
+[21Feb2025 12:35:18.978] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
