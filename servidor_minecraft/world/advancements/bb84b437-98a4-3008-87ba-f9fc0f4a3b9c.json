@@ -6466,5 +6466,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-02-21 23:38:43 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
+    "criteria": {
+      "has_item": "2025-02-21 23:40:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
