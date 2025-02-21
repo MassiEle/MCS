@@ -1098,3 +1098,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 17:19:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was blown up by Creeper
 [21Feb2025 17:21:22.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Complex Curiosities]
 [21Feb2025 17:21:45.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [The Brass Age]
+[21Feb2025 17:26:12.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG fell from a high place
+[21Feb2025 17:27:08.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of erggmessi) moved wrongly! 0.267333984375
+[21Feb2025 17:27:08.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of erggmessi) moved wrongly! 0.267333984375
+[21Feb2025 17:27:08.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of erggmessi) moved wrongly! 0.267333984375
+[21Feb2025 17:27:08.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of erggmessi) moved wrongly! 0.267333984375
+[21Feb2025 17:30:36.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the weather to clear]
+[21Feb2025 17:31:42.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:60657] logged in with entity id 117714 at (2829.3489551574007, 80.0, -774.8024200640991)
+[21Feb2025 17:31:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
+[21Feb2025 17:31:42.595] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
+[21Feb2025 17:31:42.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3972ms or 79 ticks behind
+[21Feb2025 17:31:52.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Best Friends Forever]
