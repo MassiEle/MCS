@@ -1054,3 +1054,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 15:51:30.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
 [21Feb2025 15:51:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the time to 1000]
 [21Feb2025 16:01:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the time to 1000]
+[21Feb2025 16:13:35.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:37771] logged in with entity id 96577 at (949.0691683619035, 63.0, 1331.8571489066342)
+[21Feb2025 16:13:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
+[21Feb2025 16:13:35.988] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
+[21Feb2025 16:13:49.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Hot Stuff]
+[21Feb2025 16:13:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG tried to swim in lava
+[21Feb2025 16:14:21.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has reached the goal [Magma Wheel]
+[21Feb2025 16:14:22.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has reached the goal [Tapping the Mantle]
+[21Feb2025 16:14:46.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG tried to swim in lava
+[21Feb2025 16:15:10.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> massimoà
+[21Feb2025 16:15:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> che c'è?
+[21Feb2025 16:15:19.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> quande che alassan a staccato
+[21Feb2025 16:15:28.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> 20 min fa
+[21Feb2025 16:15:45.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG tried to swim in lava
+[21Feb2025 16:18:02.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/96614, l='ServerLevel[world]', x=871.34, y=70.00, z=1234.54] died, message: 'Unemployed was slain by Zombie'
+[21Feb2025 16:18:16.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by Zombified Piglin

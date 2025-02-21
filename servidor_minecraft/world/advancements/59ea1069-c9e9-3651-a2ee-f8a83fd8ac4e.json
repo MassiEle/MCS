@@ -3763,6 +3763,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-21 16:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-21 14:02:54 +0000"
@@ -4333,6 +4339,12 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-02-21 16:16:45 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_creeper": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
@@ -4378,6 +4390,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-02-21 16:14:22 +0000"
     },
     "done": true
   },
@@ -4660,6 +4678,12 @@
   "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
     "criteria": {
       "has_item": "2025-02-21 15:29:48 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/blasting_sail": {
+    "criteria": {
+      "has_lava_bucket": "2025-02-21 16:13:49 +0000"
     },
     "done": true
   },
@@ -5149,6 +5173,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-02-21 16:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-02-21 14:17:32 +0000"
@@ -5419,6 +5449,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-02-21 16:17:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_door": {
     "criteria": {
       "has_item": "2025-02-21 14:29:24 +0000"
@@ -5428,6 +5464,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-21 14:53:17 +0000"
+    },
+    "done": true
+  },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2025-02-21 16:14:21 +0000"
     },
     "done": true
   },
@@ -5470,6 +5512,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
     "criteria": {
       "has_item": "2025-02-21 15:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2025-02-21 16:14:22 +0000"
     },
     "done": true
   },
