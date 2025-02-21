@@ -881,3 +881,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 12:35:18.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:53913] logged in with entity id 2943 at (-8.699999988079071, 83.0, 169.32861436351962)
 [21Feb2025 12:35:18.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
 [21Feb2025 12:35:18.978] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
+[21Feb2025 12:38:34.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Hidden in the Depths]
+[21Feb2025 12:38:45.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> EXALI
+[21Feb2025 12:38:48.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> cosa
+[21Feb2025 12:38:52.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> niente
+[21Feb2025 12:39:08.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> fai conto non sono neanche full ferro
+[21Feb2025 12:39:13.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> ho solo il piccone in dia
+[21Feb2025 12:39:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> fai conto ciò tutto il set full dia
+[21Feb2025 12:42:03.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 12:42:18.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 12:42:35.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[21Feb2025 12:42:56.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> puoi dormire???
+[21Feb2025 12:43:07.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:59145] logged in with entity id 7616 at (2829.3489551574007, 80.0, -774.8024200640991)
+[21Feb2025 12:43:07.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
+[21Feb2025 12:43:07.729] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
+[21Feb2025 12:43:22.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> ohi
+[21Feb2025 12:43:39.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> mandami le cooridnate su whatsapp
+[21Feb2025 12:43:49.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> fatto
+[21Feb2025 12:43:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> ciao
+[21Feb2025 12:43:59.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> mele mandi anche a me
+[21Feb2025 12:44:00.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> ciao
+[21Feb2025 12:44:01.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo lost connection: Disconnected
+[21Feb2025 12:44:01.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo left the game
+[21Feb2025 12:44:11.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> te sei alleato con alassan
+[21Feb2025 12:44:24.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> si essendo che ci avete abbandonato
+[21Feb2025 12:44:28.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> a quelle coordinate ci sara la base mie e mdi filippo
+[21Feb2025 12:47:50.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was shot by Skeleton
+[21Feb2025 12:49:03.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG lost connection: Disconnected
+[21Feb2025 12:49:03.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG left the game
