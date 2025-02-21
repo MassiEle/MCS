@@ -935,3 +935,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 13:34:02.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
 [21Feb2025 13:36:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
 [21Feb2025 13:36:58.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Ice Bucket Challenge]
+[21Feb2025 13:37:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [We Need to Go Deeper]
+[21Feb2025 13:39:54.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG moved too quickly! 10.555978551830322,0.0,1.95728172976402
+[21Feb2025 13:42:59.254] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 1 ms
+[21Feb2025 13:43:13.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to 80.500000, 75.000000, -351.500000]
+[21Feb2025 13:43:37.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Those Were the Days]
+[21Feb2025 13:43:40.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [War Pigs]
+[21Feb2025 13:44:34.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was killed
+[21Feb2025 13:44:34.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Killed ImNotEternal_BG]
+[21Feb2025 13:44:36.112] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cf9e0a4[id=<null>,name=erggmessi,properties={},legacy=false] (/127.91.188.214:54869) lost connection: Disconnected
+[21Feb2025 13:47:04.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:33317] logged in with entity id 36113 at (919.3000000119209, 3.0, 1313.3040160883872)
+[21Feb2025 13:47:04.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
+[21Feb2025 13:47:04.977] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
+[21Feb2025 13:47:28.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]

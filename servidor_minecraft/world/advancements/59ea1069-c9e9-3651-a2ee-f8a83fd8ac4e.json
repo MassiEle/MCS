@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-02-21 13:40:42 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-20 18:22:30 +0000",
       "minecraft:taiga": "2025-02-20 18:21:10 +0000",
       "minecraft:frozen_river": "2025-02-20 16:16:19 +0000",
@@ -21,6 +22,8 @@
       "minecraft:deep_frozen_ocean": "2025-02-20 18:10:43 +0000",
       "minecraft:windswept_forest": "2025-02-20 18:21:17 +0000",
       "minecraft:snowy_beach": "2025-02-20 16:26:59 +0000",
+      "minecraft:flower_forest": "2025-02-21 13:39:36 +0000",
+      "minecraft:frozen_peaks": "2025-02-21 13:40:47 +0000",
       "minecraft:plains": "2025-02-21 13:31:36 +0000"
     },
     "done": false
@@ -3336,6 +3339,60 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-02-21 12:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-21 13:37:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-21 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-21 13:37:50 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-02-21 13:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 13:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-21 13:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-21 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-21 13:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 13:36:58 +0000"
     },
     "done": true
   },
