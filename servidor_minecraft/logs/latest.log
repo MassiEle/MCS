@@ -1287,3 +1287,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 23:24:31.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:38847] logged in with entity id 215722 at (822.7246183965867, 80.0, 666.6999999880791)
 [21Feb2025 23:24:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
 [21Feb2025 23:24:31.768] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
+[21Feb2025 23:27:51.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi hit the ground too hard
+[21Feb2025 23:28:23.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:36557] logged in with entity id 216366 at (2827.7929739375354, 80.0, -770.6630603016924)
+[21Feb2025 23:28:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
+[21Feb2025 23:28:23.975] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
+[21Feb2025 23:35:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by Wolf
