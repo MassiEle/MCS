@@ -948,3 +948,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 13:47:04.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
 [21Feb2025 13:47:04.977] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
 [21Feb2025 13:47:28.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 13:47:47.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Disconnected
+[21Feb2025 13:47:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game

@@ -259,6 +259,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:ghast": "2025-02-21 13:47:02 +0000",
       "minecraft:creeper": "2025-02-20 16:14:52 +0000",
       "minecraft:zombie": "2025-02-21 12:24:06 +0000"
     },
@@ -3344,7 +3345,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-02-21 13:37:50 +0000"
+      "minecraft:nether_wastes": "2025-02-21 13:37:50 +0000",
+      "minecraft:warped_forest": "2025-02-21 13:43:36 +0000"
     },
     "done": false
   },
@@ -3378,6 +3380,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-21 13:43:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-21 13:35:34 +0000"
@@ -3387,6 +3395,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-21 13:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-21 13:43:37 +0000"
     },
     "done": true
   },
