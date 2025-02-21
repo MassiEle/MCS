@@ -17039,3 +17039,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 15:28:12.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=79, z=22}
 [21Feb2025 15:28:13.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=78, z=19}
 [21Feb2025 15:28:14.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=78, z=17}
+[21Feb2025 15:30:02.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was shot by Stray
+[21Feb2025 15:30:03.402] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740151803399
+[21Feb2025 15:31:59.201] [Server thread/DEBUG] [mixin/]: Mixing MixinDeployerHandler from railways-common.mixins.json into com.simibubi.create.content.kinetics.deployer.DeployerHandler
+[21Feb2025 15:32:48.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 15:32:49.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 15:36:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Complex Curiosities]
+[21Feb2025 15:36:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Hot Stuff]
+[21Feb2025 15:37:48.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 15:37:48.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 15:38:23.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [The Brass Age]
