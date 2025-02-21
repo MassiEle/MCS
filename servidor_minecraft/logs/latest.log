@@ -917,3 +917,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 13:09:33.782] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
 [21Feb2025 13:11:13.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=874, y=74, z=1301} BlockPos{x=873, y=72, z=1301}
 [21Feb2025 13:14:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 hit the ground too hard
+[21Feb2025 13:19:09.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:49825] logged in with entity id 17981 at (822.9758224837952, 56.0, 753.6905831159776)
+[21Feb2025 13:19:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
+[21Feb2025 13:19:09.794] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
+[21Feb2025 13:21:04.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> xaero-waypoint:Shared Location:S:950:64:1304:15:false:0:Internal-overworld-waypoints
+[21Feb2025 13:23:49.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotEternal_BG[/127.127.113.80:43705] logged in with entity id 20696 at (721.4012672756858, 72.0, -574.4504304196943)
+[21Feb2025 13:23:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG joined the game
+[21Feb2025 13:23:49.794] [Server thread/INFO] [Jade/]: Syncing config to ImNotEternal_BG (59ea1069-c9e9-3651-a2ee-f8a83fd8ac4e)
+[21Feb2025 13:28:01.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was blown up by Creeper
+[21Feb2025 13:28:17.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
+[21Feb2025 13:28:17.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
+[21Feb2025 13:28:51.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was blown up by Creeper
+[21Feb2025 13:29:03.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by Iron Golem
+[21Feb2025 13:30:57.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by Zombie
+[21Feb2025 13:33:44.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the weather to clear]
+[21Feb2025 13:34:02.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Disconnected
+[21Feb2025 13:34:02.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
+[21Feb2025 13:36:52.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 13:36:58.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Ice Bucket Challenge]

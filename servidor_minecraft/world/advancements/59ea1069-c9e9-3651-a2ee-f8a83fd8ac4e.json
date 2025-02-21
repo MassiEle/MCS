@@ -10,15 +10,18 @@
       "minecraft:old_growth_pine_taiga": "2025-02-20 18:22:30 +0000",
       "minecraft:taiga": "2025-02-20 18:21:10 +0000",
       "minecraft:frozen_river": "2025-02-20 16:16:19 +0000",
+      "minecraft:cherry_grove": "2025-02-21 13:32:13 +0000",
       "minecraft:beach": "2025-02-20 18:22:40 +0000",
       "minecraft:river": "2025-02-20 18:24:32 +0000",
       "minecraft:snowy_plains": "2025-02-20 15:57:24 +0000",
       "minecraft:snowy_taiga": "2025-02-20 16:33:41 +0000",
       "minecraft:swamp": "2025-02-20 18:22:39 +0000",
+      "minecraft:forest": "2025-02-21 13:29:39 +0000",
       "minecraft:frozen_ocean": "2025-02-20 16:26:41 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-20 18:10:43 +0000",
       "minecraft:windswept_forest": "2025-02-20 18:21:17 +0000",
-      "minecraft:snowy_beach": "2025-02-20 16:26:59 +0000"
+      "minecraft:snowy_beach": "2025-02-20 16:26:59 +0000",
+      "minecraft:plains": "2025-02-21 13:31:36 +0000"
     },
     "done": false
   },
@@ -2970,6 +2973,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-21 12:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-21 12:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-21 12:25:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-02-21 12:42:39 +0000"
@@ -3021,12 +3042,6 @@
   "create:recipes/misc/crafting/kinetics/metal_girder": {
     "criteria": {
       "has_item": "2025-02-21 12:42:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-02-21 12:25:40 +0000"
     },
     "done": true
   },
@@ -3111,12 +3126,6 @@
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2025-02-21 12:42:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-02-21 12:25:40 +0000"
     },
     "done": true
   },
@@ -3249,12 +3258,6 @@
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2025-02-21 12:42:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-02-21 12:25:40 +0000"
     },
     "done": true
   },
