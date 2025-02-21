@@ -912,3 +912,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 13:00:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Sweet Dreams]
 [21Feb2025 13:01:04.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
 [21Feb2025 13:01:04.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
+[21Feb2025 13:09:33.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:46425] logged in with entity id 15469 at (921.3000000119209, 64.0, 1346.7243512725215)
+[21Feb2025 13:09:33.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
+[21Feb2025 13:09:33.782] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
+[21Feb2025 13:11:13.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=874, y=74, z=1301} BlockPos{x=873, y=72, z=1301}
+[21Feb2025 13:14:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 hit the ground too hard
