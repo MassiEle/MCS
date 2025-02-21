@@ -1087,3 +1087,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 16:53:46.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=101, z=707} BlockPos{x=819, y=101, z=708}
 [21Feb2025 16:58:28.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG lost connection: Disconnected
 [21Feb2025 16:58:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG left the game
+[21Feb2025 17:03:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi hit the ground too hard
+[21Feb2025 17:06:58.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi drowned
+[21Feb2025 17:08:30.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi drowned
+[21Feb2025 17:10:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi tried to swim in lava
