@@ -1293,3 +1293,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 23:28:23.975] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
 [21Feb2025 23:35:18.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by Wolf
 [21Feb2025 23:37:01.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by Drowned
+[21Feb2025 23:47:00.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 23:48:34.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi discovered the floor was lava
+[21Feb2025 23:53:38.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 23:55:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 23:55:46.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo moved too quickly! 94.1674307795306,21.0,-14.848383239163809
