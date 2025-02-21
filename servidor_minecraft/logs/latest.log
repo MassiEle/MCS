@@ -1050,3 +1050,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 15:49:02.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
 [21Feb2025 15:49:24.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
 [21Feb2025 15:49:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 15:51:30.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Disconnected
+[21Feb2025 15:51:30.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
+[21Feb2025 15:51:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the time to 1000]
+[21Feb2025 16:01:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the time to 1000]
