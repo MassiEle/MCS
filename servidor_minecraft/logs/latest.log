@@ -1225,3 +1225,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 20:55:38.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
 [21Feb2025 20:56:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
 [21Feb2025 21:04:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo hit the ground too hard
+[21Feb2025 21:06:45.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 21:06:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 21:07:09.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:09:03.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 21:09:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:10:25.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 21:10:53.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:11:18.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG fell from a high place
+[21Feb2025 21:11:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was killed by Witch using magic
+[21Feb2025 21:11:52.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 21:12:02.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:12:28.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by ImNotEternal_BG
+[21Feb2025 21:13:22.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Take Aim]
+[21Feb2025 21:13:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by ImNotEternal_BG
