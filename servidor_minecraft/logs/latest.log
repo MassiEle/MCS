@@ -1165,3 +1165,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 18:32:20.329] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
 [21Feb2025 18:32:43.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was killed
 [21Feb2025 18:32:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Killed erggmessi]
+[21Feb2025 18:33:44.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo has made the advancement [Hot Stuff]
+[21Feb2025 18:34:30.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by filopopo
+[21Feb2025 18:35:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by filopopo
+[21Feb2025 18:35:24.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by ImNotEternal_BG
+[21Feb2025 18:35:29.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG lost connection: Disconnected
+[21Feb2025 18:35:29.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG left the game
+[21Feb2025 18:36:49.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo lost connection: Disconnected
+[21Feb2025 18:36:49.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo left the game
+[21Feb2025 18:36:57.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:36339] logged in with entity id 150120 at (2838.308839231501, 80.0, -775.7137895227438)
+[21Feb2025 18:36:57.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
+[21Feb2025 18:36:57.635] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
