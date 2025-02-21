@@ -381,6 +381,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-02-21 15:07:05 +0000",
       "bread": "2025-02-20 16:20:49 +0000"
     },
     "done": false
@@ -3446,9 +3447,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-02-21 15:00:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-21 15:06:14 +0000"
     },
     "done": true
   },
@@ -3668,6 +3681,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-21 14:58:57 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
@@ -3776,6 +3795,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-21 15:06:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_roller": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
@@ -3821,6 +3846,12 @@
   "createdeco:recipes/decorations/magenta_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/inverse_box": {
+    "criteria": {
+      "has_cogwheel": "2025-02-21 15:00:32 +0000"
     },
     "done": true
   },
@@ -3986,6 +4017,12 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-02-21 15:00:32 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
@@ -4010,6 +4047,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-21 15:06:14 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_fluid_pipe": {
     "criteria": {
       "has_item": "2025-02-21 14:41:24 +0000"
@@ -4031,6 +4074,12 @@
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-02-21 15:00:32 +0000"
     },
     "done": true
   },
@@ -4280,6 +4329,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_mixer": "2025-02-21 15:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-21 13:36:58 +0000"
@@ -4403,6 +4458,12 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-02-21 13:52:13 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/redstone_divider": {
+    "criteria": {
+      "has_cogwheel": "2025-02-21 15:00:32 +0000"
     },
     "done": true
   },
@@ -4604,6 +4665,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-02-21 15:00:32 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
@@ -4625,6 +4692,12 @@
   "create_dd:recipes/create_dd.base/crafting/kinetics/item_stockpile": {
     "criteria": {
       "has_barrel": "2025-02-21 14:10:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-02-21 15:00:32 +0000"
     },
     "done": true
   },

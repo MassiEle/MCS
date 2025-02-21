@@ -1013,3 +1013,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 14:57:05.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
 [21Feb2025 14:57:09.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
 [21Feb2025 14:57:14.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG fell from a high place
+[21Feb2025 14:59:13.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG tried to swim in lava to escape Blaze
+[21Feb2025 15:03:55.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46062, l='ServerLevel[world]', x=886.40, y=68.92, z=1314.77] died, message: 'Unemployed was slain by Zombie'
+[21Feb2025 15:04:56.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by Zombie
+[21Feb2025 15:07:39.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the weather to clear]
+[21Feb2025 15:07:54.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the time to 1000]
