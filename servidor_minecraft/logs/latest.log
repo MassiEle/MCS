@@ -1210,3 +1210,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 20:28:45.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set filopopo's game mode to Survival Mode]
 [21Feb2025 20:33:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> ci sono
 [21Feb2025 20:33:55.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> entra su ds
+[21Feb2025 20:35:27.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was doomed to fall by Ghast
+[21Feb2025 20:38:36.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> e niente
+[21Feb2025 20:40:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 20:41:35.702] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: ImNotEternal_BG/andesite_alloy_farm_df4wevkk9s.nbt
+[21Feb2025 20:43:49.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to filopopo]

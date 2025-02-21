@@ -19615,3 +19615,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 20:32:52.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Feb2025 20:33:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> ci sono
 [21Feb2025 20:33:55.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> entra su ds
+[21Feb2025 20:35:27.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was doomed to fall by Ghast
+[21Feb2025 20:35:30.975] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740170130972
+[21Feb2025 20:37:52.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 20:37:52.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 20:38:36.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <filopopo> e niente
+[21Feb2025 20:40:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 20:40:31.434] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740170431432
+[21Feb2025 20:41:35.702] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: ImNotEternal_BG/andesite_alloy_farm_df4wevkk9s.nbt
+[21Feb2025 20:42:52.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 20:42:52.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 20:43:49.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to filopopo]
