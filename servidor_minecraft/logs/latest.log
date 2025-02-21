@@ -968,3 +968,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 14:05:57.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the time to 1000]
 [21Feb2025 14:07:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
 [21Feb2025 14:07:34.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 14:08:12.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Bonk!]
+[21Feb2025 14:08:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has reached the goal [Workout Session]
+[21Feb2025 14:09:47.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Cover Me with Diamonds]
+[21Feb2025 14:10:19.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1001, y=-30, z=1392} BlockPos{x=995, y=-31, z=1393}
+[21Feb2025 14:11:35.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 14:11:48.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 14:12:55.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was blown up by Creeper
+[21Feb2025 14:13:06.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi fell from a high place
+[21Feb2025 14:15:15.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 burned to death
+[21Feb2025 14:15:38.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 14:16:29.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Cover Me with Diamonds]
+[21Feb2025 14:17:28.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 14:20:25.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2028, y=48, z=-817} BlockPos{x=2028, y=47, z=-817}
+[21Feb2025 14:20:25.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2028, y=48, z=-817} BlockPos{x=2028, y=47, z=-817}
+[21Feb2025 14:20:42.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was slain by ExAli56
+[21Feb2025 14:25:37.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=67, z=1401} BlockPos{x=878, y=67, z=1402}
+[21Feb2025 14:25:37.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=877, y=67, z=1401} BlockPos{x=878, y=67, z=1402}

@@ -12,11 +12,14 @@
       "minecraft:taiga": "2025-02-20 18:21:10 +0000",
       "minecraft:frozen_river": "2025-02-20 16:16:19 +0000",
       "minecraft:cherry_grove": "2025-02-21 13:32:13 +0000",
+      "minecraft:birch_forest": "2025-02-21 14:13:59 +0000",
       "minecraft:beach": "2025-02-20 18:22:40 +0000",
+      "minecraft:dark_forest": "2025-02-21 14:14:30 +0000",
       "minecraft:river": "2025-02-20 18:24:32 +0000",
       "minecraft:snowy_plains": "2025-02-20 15:57:24 +0000",
       "minecraft:snowy_taiga": "2025-02-20 16:33:41 +0000",
       "minecraft:swamp": "2025-02-20 18:22:39 +0000",
+      "minecraft:cold_ocean": "2025-02-21 14:17:26 +0000",
       "minecraft:forest": "2025-02-21 13:29:39 +0000",
       "minecraft:frozen_ocean": "2025-02-20 16:26:41 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-20 18:10:43 +0000",
@@ -24,6 +27,7 @@
       "minecraft:snowy_beach": "2025-02-20 16:26:59 +0000",
       "minecraft:flower_forest": "2025-02-21 13:39:36 +0000",
       "minecraft:frozen_peaks": "2025-02-21 13:40:47 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-21 14:14:00 +0000",
       "minecraft:plains": "2025-02-21 13:31:36 +0000"
     },
     "done": false
@@ -3344,6 +3348,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
@@ -3360,6 +3370,12 @@
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-02-21 14:08:44 +0000"
     },
     "done": true
   },
@@ -3393,15 +3409,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-21 14:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
     },
     "done": true
   },
@@ -3429,9 +3463,27 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-02-21 14:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-02-21 14:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
     },
     "done": true
   },
@@ -3483,6 +3535,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/empty_shell": {
     "criteria": {
       "has_coppper_ingot": "2025-02-21 14:07:39 +0000"
@@ -3495,9 +3553,45 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-21 14:17:32 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-21 14:17:32 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
     },
     "done": true
   },
@@ -3516,6 +3610,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-21 13:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-21 14:09:46 +0000"
     },
     "done": true
   },
@@ -3567,9 +3667,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-21 14:27:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-02-21 13:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
     },
     "done": true
   },
@@ -3621,6 +3739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
@@ -3663,9 +3787,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-21 14:17:32 +0000"
     },
     "done": true
   },
@@ -3699,6 +3835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-21 13:36:58 +0000"
@@ -3708,6 +3850,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-02-21 13:43:40 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-21 14:08:12 +0000"
     },
     "done": true
   },
@@ -3726,6 +3874,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-21 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-02-21 14:11:26 +0000"
     },
     "done": true
   },
@@ -3759,6 +3913,24 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-02-21 14:07:39 +0000"
@@ -3777,9 +3949,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/fluid_reservoir_from_fluid_tank_stonecutting": {
+    "criteria": {
+      "has_fluid_tank": "2025-02-21 14:11:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:09:21 +0000"
     },
     "done": true
   },
@@ -3792,6 +3982,12 @@
   "createdeco:recipes/decorations/copper_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-21 14:10:23 +0000"
     },
     "done": true
   },
@@ -3813,15 +4009,39 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/fluid_reservoir": {
+    "criteria": {
+      "has_barrel": "2025-02-21 14:10:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/item_stockpile": {
+    "criteria": {
+      "has_barrel": "2025-02-21 14:10:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-21 14:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-02-21 13:43:37 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-02-21 14:10:23 +0000"
     },
     "done": true
   },
@@ -3846,6 +4066,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-02-21 13:36:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-21 14:10:23 +0000"
     },
     "done": true
   },
