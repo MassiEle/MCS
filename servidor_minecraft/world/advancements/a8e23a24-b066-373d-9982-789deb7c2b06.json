@@ -4015,6 +4015,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_blue_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_slope": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4057,6 +4063,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-02-21 14:20:01 +0000"
@@ -4075,9 +4087,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-02-21 14:34:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
     },
     "done": true
   },
@@ -4093,9 +4129,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_up": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
     },
     "done": true
   },
@@ -4108,6 +4156,18 @@
   "copycats:recipes/crafting/copycat_beam": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4135,15 +4195,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_the_recipe": "2025-02-21 14:16:45 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_warning": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/tuff_castel_tile_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4165,9 +4243,39 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_electrical": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-21 14:30:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4177,9 +4285,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
     },
     "done": true
   },
@@ -4195,9 +4315,39 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/white_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_cross": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_wooden_button": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
     },
     "done": true
   },
@@ -4237,9 +4387,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_no_entry": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-21 14:30:40 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_folding_door": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_left": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4255,6 +4447,24 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_sliding_door": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4264,6 +4474,12 @@
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_right": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4279,9 +4495,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_stone_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
     },
     "done": true
   },
@@ -4294,6 +4528,30 @@
   "copycats:recipes/crafting/copycat_byte_panel": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire_diamond": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4315,9 +4573,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
     },
     "done": true
   },
@@ -4327,15 +4603,45 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_creeper": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_left": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4375,6 +4681,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/blue_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_wall": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4384,6 +4696,12 @@
   "copycats:recipes/crafting/copycat_trapdoor": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
     },
     "done": true
   },
@@ -4411,9 +4729,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/blue_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-21 14:30:40 +0000"
     },
     "done": true
   },
@@ -4429,9 +4759,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_blue_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-21 14:25:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4459,9 +4801,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
     },
     "done": true
   },
@@ -4471,9 +4825,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_right": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4489,6 +4873,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_door": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
@@ -4501,9 +4891,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/orange_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_left": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4513,9 +4915,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_light_weighted_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
     },
     "done": true
   },
@@ -4531,9 +4951,39 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_skull": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fluid": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_ice": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_flow": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4549,6 +4999,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-21 14:29:11 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/tuff_castel_tiles_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
@@ -4561,9 +5017,39 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support_wedge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_radioactive": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_support": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4591,9 +5077,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_ladder_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-02-21 14:28:31 +0000"
     },
     "done": true
   },
@@ -4615,6 +5113,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_corner_slice": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4627,9 +5131,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_door": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_right": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
     },
     "done": true
   },
@@ -4645,6 +5179,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-02-21 14:20:01 +0000"
@@ -4654,6 +5200,12 @@
   "design_decor:recipes/building_blocks/tuff_castel_tile_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
     },
     "done": true
   },
@@ -4675,6 +5227,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_gray_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_door": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4684,6 +5248,18 @@
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-21 14:30:40 +0000"
     },
     "done": true
   },
@@ -4702,6 +5278,18 @@
   "copycats:recipes/crafting/copycat_ladder": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
@@ -4735,15 +5323,45 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_placard": {
+    "criteria": {
+      "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_support_wedge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
