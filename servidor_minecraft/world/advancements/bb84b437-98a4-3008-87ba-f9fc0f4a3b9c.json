@@ -720,6 +720,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-02-20 19:45:44 +0000",
+      "bread": "2025-02-21 14:03:21 +0000",
       "rotten_flesh": "2025-02-20 16:19:52 +0000"
     },
     "done": false
@@ -3866,6 +3867,24 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-21 13:32:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-21 14:05:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-21 14:05:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-21 14:05:31 +0000"
     },
     "done": true
   },

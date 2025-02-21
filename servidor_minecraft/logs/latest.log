@@ -950,3 +950,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 13:47:28.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
 [21Feb2025 13:47:47.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Disconnected
 [21Feb2025 13:47:47.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
+[21Feb2025 13:52:13.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [The Andesite Age]
+[21Feb2025 13:53:23.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:46945] logged in with entity id 37596 at (916.3673217521443, 65.0, 1342.75868124583)
+[21Feb2025 13:53:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
+[21Feb2025 13:53:23.874] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
+[21Feb2025 13:53:53.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> ciao massimo
+[21Feb2025 13:54:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImNotEternal_BG> CIAO
+[21Feb2025 13:59:24.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:32957] logged in with entity id 39847 at (919.3000000119209, 3.0, 1313.3040160883872)
+[21Feb2025 13:59:24.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
+[21Feb2025 13:59:24.570] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
+[21Feb2025 14:02:39.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
+[21Feb2025 14:04:23.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was killed
+[21Feb2025 14:04:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Killed ImNotEternal_BG]
+[21Feb2025 14:04:24.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37603, l='ServerLevel[world]', x=883.30, y=62.05, z=1324.70] died, message: 'Unemployed was slain by Zombie'
+[21Feb2025 14:04:32.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37625, l='ServerLevel[world]', x=893.47, y=74.00, z=1294.50] died, message: 'Unemployed was slain by Zombie'
+[21Feb2025 14:05:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Teleported ImNotEternal_BG to 2829.500000, 80.000000, -774.500000]
+[21Feb2025 14:05:57.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set the time to 1000]
+[21Feb2025 14:07:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 14:07:34.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
