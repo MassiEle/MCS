@@ -1185,3 +1185,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 18:58:12.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
 [21Feb2025 18:58:12.977] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
 [21Feb2025 18:59:09.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 19:06:06.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Disconnected
+[21Feb2025 19:06:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
