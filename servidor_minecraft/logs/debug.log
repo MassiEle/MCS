@@ -19626,3 +19626,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 20:42:52.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Feb2025 20:42:52.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Feb2025 20:43:49.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to filopopo]
+[21Feb2025 20:46:18.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo tried to swim in lava
+[21Feb2025 20:46:19.320] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740170779317
+[21Feb2025 20:47:52.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 20:47:52.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 20:49:05.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 20:49:07.662] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740170947633
+[21Feb2025 20:49:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was blown up by Creeper
+[21Feb2025 20:49:43.268] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740170983259
+[21Feb2025 20:49:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was doomed to fall by Creeper
+[21Feb2025 20:49:51.979] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740170991976
+[21Feb2025 20:50:32.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was shot by Skeleton
+[21Feb2025 20:50:35.178] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740171035176
+[21Feb2025 20:51:27.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was doomed to fall by Skeleton
+[21Feb2025 20:51:29.240] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740171089232
+[21Feb2025 20:52:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo tried to swim in lava
+[21Feb2025 20:52:28.034] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740171148029
+[21Feb2025 20:52:52.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 20:52:52.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

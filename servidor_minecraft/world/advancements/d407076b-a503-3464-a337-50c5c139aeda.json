@@ -5502,6 +5502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-21 20:49:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall": {
     "criteria": {
       "has_cut_limestone": "2025-02-21 19:06:21 +0000"
@@ -5580,6 +5586,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-02-21 20:49:20 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_basalt_wall_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-02-21 20:03:02 +0000"
@@ -5655,6 +5667,12 @@
   "create_dd:recipes/create_dd.palettes/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-21 20:02:15 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/splashing_sail": {
+    "criteria": {
+      "has_water_bucket": "2025-02-21 20:49:20 +0000"
     },
     "done": true
   },

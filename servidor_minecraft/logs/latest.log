@@ -1215,3 +1215,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 20:40:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
 [21Feb2025 20:41:35.702] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: ImNotEternal_BG/andesite_alloy_farm_df4wevkk9s.nbt
 [21Feb2025 20:43:49.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to filopopo]
+[21Feb2025 20:46:18.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo tried to swim in lava
+[21Feb2025 20:49:05.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 20:49:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was blown up by Creeper
+[21Feb2025 20:49:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was doomed to fall by Creeper
+[21Feb2025 20:50:32.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was shot by Skeleton
+[21Feb2025 20:51:27.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was doomed to fall by Skeleton
+[21Feb2025 20:52:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo tried to swim in lava
