@@ -28,6 +28,7 @@
       "minecraft:flower_forest": "2025-02-20 21:39:46 +0000",
       "minecraft:frozen_peaks": "2025-02-21 18:06:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-20 21:25:43 +0000",
+      "minecraft:deep_dark": "2025-02-21 18:08:28 +0000",
       "minecraft:meadow": "2025-02-20 21:30:03 +0000",
       "minecraft:plains": "2025-02-20 21:30:46 +0000"
     },
@@ -4074,6 +4075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-21 18:12:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-21 17:55:30 +0000"
@@ -4155,6 +4162,12 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-02-21 17:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-21 18:08:47 +0000"
     },
     "done": true
   },
@@ -4263,6 +4276,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-02-21 17:55:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-21 18:22:39 +0000"
     },
     "done": true
   },
