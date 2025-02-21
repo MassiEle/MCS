@@ -1084,3 +1084,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 16:45:58.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:49201] logged in with entity id 104255 at (836.3164285473468, 89.0, 687.3000000119209)
 [21Feb2025 16:45:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
 [21Feb2025 16:45:58.778] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
+[21Feb2025 16:53:46.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=819, y=101, z=707} BlockPos{x=819, y=101, z=708}
+[21Feb2025 16:58:28.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG lost connection: Disconnected
+[21Feb2025 16:58:28.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG left the game
