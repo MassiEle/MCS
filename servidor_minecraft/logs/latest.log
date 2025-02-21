@@ -1187,3 +1187,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 18:59:09.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
 [21Feb2025 19:06:06.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Disconnected
 [21Feb2025 19:06:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
+[21Feb2025 20:05:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo has made the advancement [Those Were the Days]
+[21Feb2025 20:06:42.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by Piglin
