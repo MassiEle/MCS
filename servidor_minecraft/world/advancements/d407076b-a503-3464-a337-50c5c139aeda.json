@@ -1821,6 +1821,7 @@
       "minecraft:magma_cube": "2025-02-21 20:03:42 +0000",
       "minecraft:spider": "2025-02-20 17:41:28 +0000",
       "minecraft:creeper": "2025-02-20 17:24:54 +0000",
+      "minecraft:piglin": "2025-02-21 20:20:53 +0000",
       "minecraft:stray": "2025-02-20 19:54:05 +0000",
       "minecraft:zombie": "2025-02-20 16:57:36 +0000"
     },
@@ -5086,6 +5087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-21 20:13:39 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-21 20:02:15 +0000"
@@ -5140,6 +5147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-21 20:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-02-21 20:02:08 +0000"
@@ -5182,9 +5195,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-21 20:13:39 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/building_blocks/blackstone_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2025-02-21 20:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-21 20:13:39 +0000"
     },
     "done": true
   },
@@ -5197,6 +5222,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-21 20:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-21 20:17:51 +0000"
     },
     "done": true
   },
@@ -5239,6 +5270,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-21 20:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 20:17:51 +0000"
     },
     "done": true
   },
@@ -5296,6 +5333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-21 20:21:01 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_basalt_slab_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-02-21 20:03:02 +0000"
@@ -5311,6 +5354,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-02-21 20:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-21 20:13:39 +0000"
     },
     "done": true
   },
@@ -5428,6 +5477,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-02-21 20:17:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall": {
     "criteria": {
       "has_cut_limestone": "2025-02-21 19:06:21 +0000"
@@ -5455,6 +5510,12 @@
   "create_dd:recipes/create_dd.palettes/small_blackstone_bricks_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2025-02-21 20:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-21 20:13:39 +0000"
     },
     "done": true
   },
@@ -5587,6 +5648,12 @@
   "create_dd:recipes/create_dd.palettes/cut_basalt_bricks_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-02-21 20:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-21 20:13:39 +0000"
     },
     "done": true
   },
