@@ -6911,6 +6911,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/misc/crafting/lapis_lazuli_from_lapis_lazuli_shard": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-21 21:48:37 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/crafting/decor/light_blueprint_block": {
     "criteria": {
       "has_dyed_item": "2025-02-21 20:39:35 +0000"
@@ -6998,6 +7004,12 @@
   "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-21 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-21 21:48:37 +0000"
     },
     "done": true
   },
@@ -7121,6 +7133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-21 21:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-02-21 20:38:55 +0000"
@@ -7136,6 +7154,12 @@
   "createdeco:recipes/decorations/blue_placard_from_dyeing": {
     "criteria": {
       "has_dye": "2025-02-21 20:38:55 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/bury_blend": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-21 21:48:37 +0000"
     },
     "done": true
   },

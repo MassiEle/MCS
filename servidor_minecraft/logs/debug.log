@@ -19904,3 +19904,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 21:42:52.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Feb2025 21:44:10.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
 [21Feb2025 21:44:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:47:52.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 21:47:52.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 21:48:28.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 21:48:40.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:52:52.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 21:52:52.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 21:53:31.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 21:53:32.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:54:03.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by Zombie
+[21Feb2025 21:54:05.169] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740174845166
+[21Feb2025 21:54:15.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
+[21Feb2025 21:55:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was shot by Skeleton
+[21Feb2025 21:55:29.229] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740174929228

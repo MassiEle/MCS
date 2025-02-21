@@ -5714,6 +5714,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-02-21 21:50:36 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/manual": {
     "criteria": {
       "has_book": "2025-02-21 21:38:03 +0000"
@@ -5732,9 +5738,39 @@
     },
     "done": true
   },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:36 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-02-21 21:49:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-02-21 21:38:03 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-02-21 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-02-21 21:50:36 +0000"
     },
     "done": true
   },

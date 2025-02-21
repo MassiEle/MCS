@@ -1265,3 +1265,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 21:41:41.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
 [21Feb2025 21:44:10.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
 [21Feb2025 21:44:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:48:28.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 21:48:40.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:53:31.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 21:53:32.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 21:54:03.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by Zombie
+[21Feb2025 21:54:15.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
+[21Feb2025 21:55:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was shot by Skeleton
