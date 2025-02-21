@@ -4465,6 +4465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-02-21 15:19:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-21 15:03:42 +0000"
@@ -4633,6 +4639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-21 15:24:44 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2025-02-21 14:49:45 +0000"
@@ -4660,6 +4672,12 @@
   "create_dd:recipes/create_dd.base/crafting/fan_catalyst/sanding_sail": {
     "criteria": {
       "has_sand": "2025-02-21 14:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-21 15:24:44 +0000"
     },
     "done": true
   },
@@ -4832,6 +4850,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-21 15:21:51 +0000"
+    },
+    "done": true
+  },
   "sliceanddice:recipes/misc/sprinkler": {
     "criteria": {
       "has_pipe": "2025-02-21 14:52:18 +0000"
@@ -4841,6 +4865,12 @@
   "copycats:recipes/crafting/copycat_fluid_pipe": {
     "criteria": {
       "has_item": "2025-02-21 14:52:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-21 15:20:50 +0000"
     },
     "done": true
   },
@@ -4919,6 +4949,12 @@
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-21 15:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-21 15:24:44 +0000"
     },
     "done": true
   },
@@ -5120,6 +5156,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-21 15:18:34 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/calcite_castel_tile_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-21 15:03:42 +0000"
@@ -5195,6 +5237,12 @@
   "design_decor:recipes/building_blocks/calcite_castel_tile_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-21 15:03:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-21 15:20:50 +0000"
     },
     "done": true
   },

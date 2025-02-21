@@ -12,6 +12,7 @@
       "minecraft:taiga": "2025-02-20 18:21:10 +0000",
       "minecraft:frozen_river": "2025-02-20 16:16:19 +0000",
       "minecraft:cherry_grove": "2025-02-21 13:32:13 +0000",
+      "minecraft:sunflower_plains": "2025-02-21 15:23:48 +0000",
       "minecraft:birch_forest": "2025-02-21 14:13:59 +0000",
       "minecraft:beach": "2025-02-20 18:22:40 +0000",
       "minecraft:dark_forest": "2025-02-21 14:14:30 +0000",
@@ -29,6 +30,7 @@
       "minecraft:flower_forest": "2025-02-21 13:39:36 +0000",
       "minecraft:frozen_peaks": "2025-02-21 13:40:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-21 14:14:00 +0000",
+      "minecraft:deep_dark": "2025-02-21 15:23:38 +0000",
       "minecraft:plains": "2025-02-21 13:31:36 +0000"
     },
     "done": false
@@ -264,6 +266,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-21 15:25:30 +0000",
       "minecraft:ghast": "2025-02-21 13:47:02 +0000",
       "minecraft:spider": "2025-02-21 13:49:42 +0000",
       "minecraft:creeper": "2025-02-20 16:14:52 +0000",
@@ -3410,6 +3413,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-02-21 15:19:15 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
@@ -3636,6 +3645,12 @@
   "createdeco:recipes/decorations/copper_bars_overlay": {
     "criteria": {
       "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-21 15:20:06 +0000"
     },
     "done": true
   },
@@ -4041,6 +4056,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-21 15:22:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-21 15:19:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2025-02-21 15:09:48 +0000"
@@ -4071,9 +4098,27 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-02-21 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 15:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-21 15:24:00 +0000"
     },
     "done": true
   },
@@ -4116,6 +4161,12 @@
   "createdeco:recipes/decorations/decal_top_left": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-21 15:20:06 +0000"
     },
     "done": true
   },
@@ -4221,6 +4272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_bars": {
     "criteria": {
       "has_item": "2025-02-21 15:09:08 +0000"
@@ -4317,6 +4374,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_dried_kelp_block": "2025-02-21 14:27:56 +0000"
@@ -4368,6 +4431,12 @@
   "createdeco:recipes/building_blocks/zinc_window": {
     "criteria": {
       "has_item": "2025-02-21 15:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-21 15:24:00 +0000"
     },
     "done": true
   },
@@ -4449,6 +4518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
@@ -4458,6 +4533,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-02-21 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-21 15:24:00 +0000"
     },
     "done": true
   },
@@ -4476,6 +4557,12 @@
   "createdeco:recipes/decorations/decal_down_right": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2025-02-21 15:24:00 +0000"
     },
     "done": true
   },
@@ -4521,6 +4608,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-02-21 14:50:19 +0000"
@@ -4545,9 +4638,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-21 15:20:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-21 15:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-21 15:24:00 +0000"
     },
     "done": true
   },
@@ -4569,6 +4680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
@@ -4578,6 +4695,12 @@
   "createdeco:recipes/decorations/decal_down_left": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-21 15:20:06 +0000"
     },
     "done": true
   },
@@ -4683,6 +4806,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-02-21 15:19:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-21 14:09:21 +0000"
@@ -4767,6 +4896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
@@ -4845,6 +4980,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-02-21 15:19:15 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_block": {
     "criteria": {
       "has_item": "2025-02-21 15:09:08 +0000"
@@ -4875,6 +5016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-21 15:19:15 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_ladder_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 15:09:08 +0000"
@@ -4890,6 +5037,12 @@
   "create_dd:recipes/create_dd.base/crafting/kinetics/redstone_divider": {
     "criteria": {
       "has_cogwheel": "2025-02-21 15:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-21 15:24:00 +0000"
     },
     "done": true
   },
@@ -4968,6 +5121,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-02-21 14:50:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-21 15:19:15 +0000"
     },
     "done": true
   },
@@ -5061,6 +5220,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-21 15:19:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-21 14:09:21 +0000"
@@ -5082,6 +5247,18 @@
   "copycats:recipes/crafting/copycat_slice": {
     "criteria": {
       "has_item": "2025-02-21 15:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-21 15:20:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-21 15:19:15 +0000"
     },
     "done": true
   },
@@ -5187,6 +5364,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-02-21 15:24:00 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
@@ -5226,6 +5409,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-02-21 14:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-21 15:19:15 +0000"
     },
     "done": true
   },
