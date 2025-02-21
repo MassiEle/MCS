@@ -270,6 +270,7 @@
       "minecraft:ghast": "2025-02-21 13:47:02 +0000",
       "minecraft:spider": "2025-02-21 13:49:42 +0000",
       "minecraft:creeper": "2025-02-20 16:14:52 +0000",
+      "minecraft:piglin": "2025-02-21 15:46:24 +0000",
       "minecraft:zombie": "2025-02-21 12:24:06 +0000"
     },
     "done": false
@@ -3684,6 +3685,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/gray_placard": {
     "criteria": {
       "has_item": "2025-02-21 15:28:13 +0000"
@@ -4194,6 +4207,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-02-21 15:42:36 +0000"
+    },
+    "done": false
+  },
   "create_dd:recipes/create_dd.base/crafting/kinetics/inverse_box": {
     "criteria": {
       "has_cogwheel": "2025-02-21 15:00:32 +0000"
@@ -4350,6 +4369,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-02-21 14:07:39 +0000"
@@ -4377,6 +4402,12 @@
   "create_connected:recipes/crafting/kinetics/inventory_access_port": {
     "criteria": {
       "has_item": "2025-02-21 15:29:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
     },
     "done": true
   },
@@ -4503,6 +4534,12 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-02-21 15:31:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
     },
     "done": true
   },
@@ -4668,6 +4705,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/freewheel_clutch": {
     "criteria": {
       "has_item": "2025-02-21 15:00:32 +0000"
@@ -4749,6 +4792,12 @@
   "createdeco:recipes/decorations/copper_bars": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
     },
     "done": true
   },
@@ -5268,6 +5317,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/fuel_tank": {
     "criteria": {
       "has_item": "2025-02-21 14:11:26 +0000"
@@ -5289,6 +5344,12 @@
   "copycats:recipes/crafting/copycat_slab": {
     "criteria": {
       "has_item": "2025-02-21 15:09:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
     },
     "done": true
   },
@@ -5361,6 +5422,12 @@
   "createdeco:recipes/decorations/red_iron_lamp": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-02-21 15:38:23 +0000"
     },
     "done": true
   },
@@ -5508,6 +5575,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_brass_lamp": {
     "criteria": {
       "has_item": "2025-02-21 15:28:13 +0000"
@@ -5550,6 +5623,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-02-21 15:19:15 +0000"
@@ -5577,6 +5656,12 @@
   "createdeco:recipes/decorations/zinc_door": {
     "criteria": {
       "has_item": "2025-02-21 15:09:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
     },
     "done": true
   },
@@ -5745,6 +5830,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-02-21 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-02-21 15:38:26 +0000"
     },
     "done": true
   },

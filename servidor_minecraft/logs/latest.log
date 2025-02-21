@@ -1042,3 +1042,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 15:36:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Complex Curiosities]
 [21Feb2025 15:36:40.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Hot Stuff]
 [21Feb2025 15:38:23.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [The Brass Age]
+[21Feb2025 15:45:38.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG moved too quickly! -0.030813236826986667,-10.529193645291336,0.0
+[21Feb2025 15:45:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG tried to swim in lava
+[21Feb2025 15:48:47.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 15:48:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
+[21Feb2025 15:48:57.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 15:49:02.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 15:49:24.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Spectator Mode]
+[21Feb2025 15:49:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
