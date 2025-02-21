@@ -77,7 +77,8 @@
       "minecraft:spider": "2025-02-20 16:19:01 +0000",
       "minecraft:wither_skeleton": "2025-02-20 19:49:46 +0000",
       "minecraft:piglin": "2025-02-20 19:50:51 +0000",
-      "minecraft:zombie": "2025-02-20 16:15:08 +0000"
+      "minecraft:zombie": "2025-02-20 16:15:08 +0000",
+      "minecraft:drowned": "2025-02-21 14:50:53 +0000"
     },
     "done": false
   },
@@ -4476,6 +4477,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-02-21 14:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 14:37:24 +0000"
@@ -4500,15 +4507,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-21 14:48:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-02-21 14:41:41 +0000"
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-02-21 14:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 14:37:24 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-21 14:51:27 +0000"
     },
     "done": true
   },
@@ -4521,6 +4546,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 14:37:24 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-02-21 14:49:45 +0000"
     },
     "done": true
   },
@@ -4550,9 +4581,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-02-21 14:47:51 +0000",
       "1": "2025-02-21 14:47:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
@@ -4605,6 +4637,18 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-02-21 14:37:24 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-02-21 14:52:18 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-21 14:52:18 +0000"
     },
     "done": true
   },
@@ -4668,6 +4712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-21 14:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 14:37:24 +0000"
@@ -4677,6 +4727,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 14:37:24 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-02-21 14:52:17 +0000"
     },
     "done": true
   },
@@ -4704,6 +4760,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2025-02-21 14:49:00 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/fluid_reservoir_from_fluid_tank_stonecutting": {
+    "criteria": {
+      "has_fluid_tank": "2025-02-21 14:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-02-21 14:41:41 +0000"
@@ -4716,6 +4784,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/splashing_sail": {
+    "criteria": {
+      "has_water_bucket": "2025-02-21 14:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-21 14:41:41 +0000"
@@ -4725,6 +4799,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-21 14:37:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-02-21 14:49:02 +0000"
     },
     "done": true
   },

@@ -4165,6 +4165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-21 14:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-21 14:16:29 +0000"
@@ -4717,6 +4723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-21 14:50:11 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_fire": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
@@ -4732,6 +4744,12 @@
   "createdeco:recipes/decorations/decal_top_left": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-02-21 14:50:11 +0000"
     },
     "done": true
   },
@@ -4855,6 +4873,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-02-21 14:50:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
@@ -4876,6 +4900,12 @@
   "copycats:recipes/crafting/copycat_wooden_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-02-21 14:50:11 +0000"
     },
     "done": true
   },
@@ -5029,9 +5059,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2025-02-21 14:50:11 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_iron_lamp": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-02-21 14:50:11 +0000"
     },
     "done": true
   },
@@ -5050,6 +5092,12 @@
   "createdeco:recipes/decorations/orange_placard": {
     "criteria": {
       "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-02-21 14:50:11 +0000"
     },
     "done": true
   },
@@ -5164,6 +5212,12 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-02-21 14:29:11 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-21 14:50:11 +0000"
     },
     "done": true
   },

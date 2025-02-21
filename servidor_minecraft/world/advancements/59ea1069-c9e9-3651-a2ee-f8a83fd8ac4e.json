@@ -3367,6 +3367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
@@ -3385,6 +3391,12 @@
       "minecraft:warped_forest": "2025-02-21 13:43:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
@@ -3422,6 +3434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/red_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
@@ -3449,6 +3467,12 @@
   "createdeco:recipes/decorations/gray_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
     },
     "done": true
   },
@@ -3521,6 +3545,12 @@
   "createdeco:recipes/decorations/decal_cross": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-21 14:50:19 +0000"
     },
     "done": true
   },
@@ -3914,6 +3944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
@@ -3986,6 +4022,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-21 14:50:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/connector_lv": {
     "criteria": {
       "has_copper_ingot": "2025-02-21 14:07:39 +0000"
@@ -4040,6 +4082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_catwalk_forge": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
@@ -4082,9 +4130,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-21 14:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-21 14:50:19 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_iron_lamp": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
     },
     "done": true
   },
@@ -4115,6 +4181,12 @@
   "createdeco:recipes/decorations/decal_down_left": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
     },
     "done": true
   },
@@ -4286,6 +4358,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-21 14:53:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
@@ -4367,6 +4445,12 @@
   "createdeco:recipes/decorations/decal_top_right": {
     "criteria": {
       "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-21 14:50:19 +0000"
     },
     "done": true
   },
@@ -4571,6 +4655,12 @@
   "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-21 14:50:33 +0000"
     },
     "done": true
   },
