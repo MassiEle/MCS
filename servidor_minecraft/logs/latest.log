@@ -1091,3 +1091,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 17:06:58.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi drowned
 [21Feb2025 17:08:30.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi drowned
 [21Feb2025 17:10:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi tried to swim in lava
+[21Feb2025 17:14:51.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImNotEternal_BG[/127.127.113.80:60993] logged in with entity id 111154 at (2806.5727345341766, 82.0, -754.2468958660712)
+[21Feb2025 17:14:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG joined the game
+[21Feb2025 17:14:51.631] [Server thread/INFO] [Jade/]: Syncing config to ImNotEternal_BG (59ea1069-c9e9-3651-a2ee-f8a83fd8ac4e)
+[21Feb2025 17:17:19.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
+[21Feb2025 17:19:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi was blown up by Creeper
+[21Feb2025 17:21:22.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [Complex Curiosities]
+[21Feb2025 17:21:45.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has made the advancement [The Brass Age]
