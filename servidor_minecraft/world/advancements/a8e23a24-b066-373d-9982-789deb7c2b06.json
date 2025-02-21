@@ -4039,6 +4039,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-21 14:41:14 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_layer": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4060,6 +4066,12 @@
   "createdeco:recipes/decorations/zinc_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/balloon": {
+    "criteria": {
+      "has_hemp_fabric": "2025-02-21 14:46:26 +0000"
     },
     "done": true
   },
@@ -4108,6 +4120,12 @@
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_gearbox": {
+    "criteria": {
+      "has_item": "2025-02-21 14:41:14 +0000"
     },
     "done": true
   },
@@ -4219,6 +4237,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-02-21 14:38:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/gray_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
@@ -4255,6 +4279,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/strip_curtain": {
+    "criteria": {
+      "has_hemp_fabric": "2025-02-21 14:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-02-21 14:30:40 +0000"
@@ -4288,6 +4318,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-02-21 14:44:01 +0000"
     },
     "done": true
   },
@@ -4339,6 +4375,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-21 14:46:27 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/lime_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
@@ -4363,6 +4405,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:00 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2025-02-21 14:46:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
@@ -4384,6 +4438,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-02-21 14:25:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-02-21 14:46:27 +0000"
     },
     "done": true
   },
@@ -4441,6 +4501,12 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-02-21 14:42:41 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/tuff_castel_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
@@ -4456,6 +4522,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-02-21 14:28:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/glider": {
+    "criteria": {
+      "has_hemp_fabric": "2025-02-21 14:46:26 +0000"
     },
     "done": true
   },
@@ -4483,9 +4555,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-02-21 14:46:27 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_ghost_block": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-02-21 14:39:18 +0000"
     },
     "done": true
   },
@@ -4615,6 +4699,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/windmill_sail": {
+    "criteria": {
+      "has_hemp_fabric": "2025-02-21 14:46:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4681,6 +4771,18 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-02-21 14:44:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-21 14:46:27 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_placard": {
     "criteria": {
       "has_item": "2025-02-21 14:29:19 +0000"
@@ -4711,6 +4813,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-02-21 14:46:27 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_bars": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4729,15 +4837,33 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-21 14:46:27 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/ersatz_leather": {
+    "criteria": {
+      "has_hemp_fabric": "2025-02-21 14:46:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-02-21 14:47:01 +0000"
     },
     "done": true
   },
@@ -4786,6 +4912,12 @@
   "createdeco:recipes/decorations/zinc_trapdoor": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-21 14:47:01 +0000"
     },
     "done": true
   },
@@ -4849,6 +4981,18 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-02-21 14:42:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/generator": {
+    "criteria": {
+      "has_component_iron": "2025-02-21 14:46:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/green_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
@@ -4861,6 +5005,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-02-21 14:44:01 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_flat_pane": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -4870,6 +5020,12 @@
   "copycats:recipes/crafting/copycat_half_panel": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-02-21 14:46:27 +0000"
     },
     "done": true
   },
@@ -4969,6 +5125,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-02-21 14:44:01 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_fluid": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
@@ -5008,6 +5170,12 @@
   "design_decor:recipes/building_blocks/tuff_castel_tiles_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-02-21 14:44:01 +0000"
     },
     "done": true
   },
@@ -5071,6 +5239,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-02-21 14:46:57 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_slab": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
@@ -5080,6 +5254,12 @@
   "createdeco:recipes/decorations/green_brass_lamp": {
     "criteria": {
       "has_item": "2025-02-21 14:29:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2025-02-21 14:46:27 +0000"
     },
     "done": true
   },
@@ -5155,6 +5335,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/cushion": {
+    "criteria": {
+      "has_hemp_fabric": "2025-02-21 14:46:26 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/fluid_reservoir_from_fluid_tank_stonecutting": {
+    "criteria": {
+      "has_fluid_tank": "2025-02-21 14:46:57 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/pink_shipping_container": {
     "criteria": {
       "has_item": "2025-02-21 14:33:59 +0000"
@@ -5197,6 +5389,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-02-21 14:44:01 +0000"
+    },
+    "done": true
+  },
   "design_decor:recipes/building_blocks/tuff_castel_tile_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
@@ -5212,6 +5410,12 @@
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-02-21 14:16:45 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-02-21 14:44:01 +0000"
     },
     "done": true
   },
@@ -5311,6 +5515,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-02-21 14:46:27 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_trapdoor": {
     "criteria": {
       "has_item": "2025-02-21 14:20:01 +0000"
@@ -5332,6 +5542,12 @@
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-21 14:01:29 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/smoking_sail": {
+    "criteria": {
+      "has_campfire": "2025-02-21 14:44:01 +0000"
     },
     "done": true
   },

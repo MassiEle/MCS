@@ -3349,9 +3349,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_blue_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_support_wedge": {
     "criteria": {
       "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/layered_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
     },
     "done": true
   },
@@ -3380,6 +3398,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_up": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "create:hand_crank_000": {
     "criteria": {
       "0": "2025-02-21 14:08:44 +0000"
@@ -3398,15 +3422,39 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_warning": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-02-21 14:33:10 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_electrical": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3419,6 +3467,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3455,6 +3509,24 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_cross": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3506,6 +3578,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_no_entry": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
@@ -3521,6 +3611,12 @@
   "createdeco:recipes/decorations/copper_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_left": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3542,9 +3638,21 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3566,6 +3674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
     "criteria": {
       "has_item": "2025-02-21 14:09:06 +0000"
@@ -3575,6 +3689,12 @@
   "immersiveengineering:recipes/misc/crafting/chute_copper": {
     "criteria": {
       "has_plate": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_right": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3602,6 +3722,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-21 14:17:32 +0000"
@@ -3611,6 +3737,12 @@
   "createdeco:recipes/decorations/copper_mesh_fence": {
     "criteria": {
       "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
     },
     "done": true
   },
@@ -3632,15 +3764,51 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire_diamond": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-02-21 14:09:46 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/magenta_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_creeper": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3656,6 +3824,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_fire": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_copper": {
     "criteria": {
       "has_copper_ingot": "2025-02-21 14:07:39 +0000"
@@ -3665,6 +3845,12 @@
   "create_connected:recipes/crafting/kinetics/brake": {
     "criteria": {
       "has_item": "2025-02-21 13:36:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_left": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3704,15 +3890,33 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-21 14:09:21 +0000"
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 13:53:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3728,9 +3932,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-21 14:38:52 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_door": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-02-21 14:41:24 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
     },
     "done": true
   },
@@ -3743,6 +3965,18 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-21 13:53:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-21 14:41:24 +0000"
     },
     "done": true
   },
@@ -3800,15 +4034,57 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-02-21 14:07:39 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_down_right": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3824,9 +4100,27 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_left": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
     },
     "done": true
   },
@@ -3851,6 +4145,18 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-02-21 14:17:32 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
     },
     "done": true
   },
@@ -3890,15 +4196,45 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_skull": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-21 13:36:58 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_fluid": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_ice": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-02-21 13:43:40 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_flow": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -3926,15 +4262,45 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_radioactive": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_door": {
     "criteria": {
       "has_item": "2025-02-21 14:29:24 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-21 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
     },
     "done": true
   },
@@ -3974,6 +4340,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-02-21 13:52:24 +0000"
@@ -3983,6 +4355,18 @@
   "createdeco:recipes/decorations/copper_catwalk_forge": {
     "criteria": {
       "has_item": "2025-02-21 14:09:06 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_right": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -4034,9 +4418,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/pink_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -4052,6 +4454,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_gray_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/item_drain": {
     "criteria": {
       "has_item": "2025-02-21 14:29:24 +0000"
@@ -4061,6 +4475,12 @@
   "createdeco:recipes/decorations/copper_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -4088,9 +4508,21 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.base/crafting/fan_catalyst/splashing_sail": {
     "criteria": {
       "has_water_bucket": "2025-02-21 14:32:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },
@@ -4121,6 +4553,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-02-21 13:43:37 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
     },
     "done": true
   },
@@ -4166,6 +4604,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 14:07:39 +0000"
@@ -4181,6 +4625,18 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-21 14:02:54 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-02-21 14:42:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_support_wedge": {
+    "criteria": {
+      "has_item": "2025-02-21 14:42:23 +0000"
     },
     "done": true
   },

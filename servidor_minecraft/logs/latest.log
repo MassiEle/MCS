@@ -996,3 +996,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 14:34:56.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:43419] logged in with entity id 56320 at (918.6999999880791, 65.0, 1339.300000011921)
 [21Feb2025 14:34:56.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
 [21Feb2025 14:34:56.632] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
+[21Feb2025 14:39:03.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi has reached the goal [Workout Session]
+[21Feb2025 14:48:29.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Gave 64 [Bread] to ImNotEternal_BG]
