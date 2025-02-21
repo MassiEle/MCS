@@ -1069,3 +1069,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 16:15:45.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG tried to swim in lava
 [21Feb2025 16:18:02.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/96614, l='ServerLevel[world]', x=871.34, y=70.00, z=1234.54] died, message: 'Unemployed was slain by Zombie'
 [21Feb2025 16:18:16.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by Zombified Piglin
+[21Feb2025 16:20:52.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
+[21Feb2025 16:20:52.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
+[21Feb2025 16:29:40.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 16:29:47.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
