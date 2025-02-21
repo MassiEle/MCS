@@ -6106,9 +6106,363 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-02-21 18:53:51 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-02-21 18:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-02-21 18:50:07 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/stone_pillar_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_brick_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-21 18:48:17 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-02-21 18:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_stone_brick_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_slab_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_trapdoor_from_conversion": {
+    "criteria": {
+      "has_item": "2025-02-21 18:55:31 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_stone_bricks_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/building_blocks/stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-02-21 18:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_stone_brick_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-02-21 18:52:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard_clear": {
     "criteria": {
       "has_item": "2025-02-21 18:38:41 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/small_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-02-21 18:52:01 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_wall_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/layered_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-02-21 18:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-21 18:57:19 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/cut_stone_brick_stairs_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-02-21 18:52:01 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_from_stone_types_stone_stonecutting": {
+    "criteria": {
+      "has_stone_types_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-21 18:50:07 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/fluid_reservoir": {
+    "criteria": {
+      "has_barrel": "2025-02-21 18:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-21 18:47:18 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/item_stockpile": {
+    "criteria": {
+      "has_barrel": "2025-02-21 18:50:07 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slab_from_panels": {
+    "criteria": {
+      "has_item": "2025-02-21 18:55:31 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-02-21 18:50:07 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/smoking_sail": {
+    "criteria": {
+      "has_campfire": "2025-02-21 18:52:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-21 18:50:07 +0000"
     },
     "done": true
   },

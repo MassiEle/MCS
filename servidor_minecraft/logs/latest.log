@@ -1176,3 +1176,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 18:36:57.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:36339] logged in with entity id 150120 at (2838.308839231501, 80.0, -775.7137895227438)
 [21Feb2025 18:36:57.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
 [21Feb2025 18:36:57.635] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
+[21Feb2025 18:52:22.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 18:56:37.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was impaled on a stalagmite
+[21Feb2025 18:57:41.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 18:57:59.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo lost connection: Timed out
+[21Feb2025 18:57:59.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo left the game
+[21Feb2025 18:58:12.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:55791] logged in with entity id 158121 at (2826.7381996947115, 81.17675927506424, -774.5638013730203)
+[21Feb2025 18:58:12.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
+[21Feb2025 18:58:12.977] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
+[21Feb2025 18:59:09.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
