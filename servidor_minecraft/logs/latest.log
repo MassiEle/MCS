@@ -1282,3 +1282,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 22:07:26.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG lost connection: Disconnected
 [21Feb2025 22:07:26.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG left the game
 [21Feb2025 22:15:38.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/205300, l='ServerLevel[world]', x=932.51, y=65.00, z=1285.54] died, message: 'Farmer was slain by Zombie'
+[21Feb2025 22:51:17.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
+[21Feb2025 22:51:17.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
