@@ -280,6 +280,7 @@
       "beef": "2025-02-20 20:15:05 +0000",
       "porkchop": "2025-02-20 21:29:40 +0000",
       "potato": "2025-02-20 16:31:01 +0000",
+      "mutton": "2025-02-21 21:38:13 +0000",
       "bread": "2025-02-20 16:31:51 +0000",
       "cooked_salmon": "2025-02-20 18:27:22 +0000",
       "carrot": "2025-02-20 20:39:19 +0000"
@@ -5185,6 +5186,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-02-21 21:18:24 +0000"
@@ -5203,6 +5210,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-21 20:05:45 +0000"
@@ -5218,6 +5231,12 @@
   "create:recipes/misc/crafting/logistics/brass_tunnel": {
     "criteria": {
       "has_item": "2025-02-21 21:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-21 21:35:36 +0000"
     },
     "done": true
   },
@@ -5359,6 +5378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-21 21:35:36 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_folding_door": {
     "criteria": {
       "has_item": "2025-02-21 21:17:39 +0000"
@@ -5419,6 +5444,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2025-02-21 21:35:36 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/crafting/copycat_stone_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-21 21:17:39 +0000"
@@ -5434,6 +5465,18 @@
   "copycats:recipes/crafting/copycat_byte_panel": {
     "criteria": {
       "has_item": "2025-02-21 21:17:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },
@@ -5467,6 +5510,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-21 20:02:15 +0000"
@@ -5479,6 +5528,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-02-21 21:17:39 +0000"
@@ -5488,6 +5543,12 @@
   "createdeco:recipes/building_blocks/brass_window": {
     "criteria": {
       "has_item": "2025-02-21 21:18:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2025-02-21 21:35:36 +0000"
     },
     "done": true
   },
@@ -5560,6 +5621,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-02-21 20:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },
@@ -5647,6 +5714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-02-21 20:21:01 +0000"
@@ -5680,6 +5753,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-02-21 20:08:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },
@@ -5893,6 +5972,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall": {
     "criteria": {
       "has_cut_limestone": "2025-02-21 19:06:21 +0000"
@@ -5902,6 +5987,18 @@
   "copycats:recipes/crafting/copycat_stairs": {
     "criteria": {
       "has_item": "2025-02-21 21:17:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },
@@ -5983,9 +6080,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/zinc_ladder_from_stonecutting": {
     "criteria": {
       "has_item": "2025-02-21 21:17:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },
@@ -6004,6 +6119,12 @@
   "copycats:recipes/crafting/copycat_stone_button": {
     "criteria": {
       "has_item": "2025-02-21 21:17:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },
@@ -6058,6 +6179,12 @@
   "create_dd:recipes/create_dd.palettes/polished_cut_basalt_wall_from_stone_types_basalt_stonecutting": {
     "criteria": {
       "has_stone_types_basalt": "2025-02-21 20:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },
@@ -6151,9 +6278,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/cut_blackstone_brick_slab_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2025-02-21 20:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },
@@ -6223,6 +6368,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-21 20:03:02 +0000"
@@ -6253,6 +6404,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-02-21 20:02:15 +0000"
@@ -6262,6 +6419,12 @@
   "create_dd:recipes/create_dd.palettes/cut_blackstone_brick_wall_from_stone_types_blackstone_stonecutting": {
     "criteria": {
       "has_stone_types_blackstone": "2025-02-21 20:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-02-21 21:38:01 +0000"
     },
     "done": true
   },

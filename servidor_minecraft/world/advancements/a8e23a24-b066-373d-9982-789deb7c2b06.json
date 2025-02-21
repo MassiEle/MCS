@@ -170,7 +170,8 @@
       "minecraft:creeper": "2025-02-21 12:45:51 +0000",
       "minecraft:wither_skeleton": "2025-02-20 21:15:55 +0000",
       "minecraft:piglin": "2025-02-20 21:29:11 +0000",
-      "minecraft:zombie": "2025-02-20 18:31:21 +0000"
+      "minecraft:zombie": "2025-02-20 18:31:21 +0000",
+      "minecraft:zombie_villager": "2025-02-21 21:37:05 +0000"
     },
     "done": false
   },
@@ -5677,12 +5678,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-02-21 16:17:44 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/green_copper_lamp": {
     "criteria": {
       "has_item": "2025-02-21 16:17:15 +0000"
@@ -5704,6 +5699,42 @@
   "createdeco:recipes/decorations/blue_copper_lamp": {
     "criteria": {
       "has_item": "2025-02-21 16:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-21 16:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-21 21:38:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-02-21 21:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-21 21:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-21 21:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-21 21:38:03 +0000"
     },
     "done": true
   },
