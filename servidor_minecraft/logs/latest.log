@@ -909,3 +909,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 12:47:50.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 was shot by Skeleton
 [21Feb2025 12:49:03.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImNotEternal_BG lost connection: Disconnected
 [21Feb2025 12:49:03.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG left the game
+[21Feb2025 13:00:31.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 has made the advancement [Sweet Dreams]
+[21Feb2025 13:01:04.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
+[21Feb2025 13:01:04.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
