@@ -1284,3 +1284,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 22:15:38.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/205300, l='ServerLevel[world]', x=932.51, y=65.00, z=1285.54] died, message: 'Farmer was slain by Zombie'
 [21Feb2025 22:51:17.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExAli56 lost connection: Disconnected
 [21Feb2025 22:51:17.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
+[21Feb2025 23:24:31.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:38847] logged in with entity id 215722 at (822.7246183965867, 80.0, 666.6999999880791)
+[21Feb2025 23:24:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
+[21Feb2025 23:24:31.768] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
