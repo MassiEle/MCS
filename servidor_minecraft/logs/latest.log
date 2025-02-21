@@ -1073,3 +1073,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 16:20:52.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 left the game
 [21Feb2025 16:29:40.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
 [21Feb2025 16:29:47.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 16:34:34.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Creative Mode]
+[21Feb2025 16:34:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Set own game mode to Survival Mode]
+[21Feb2025 16:37:44.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@672eaa3a[id=<null>,name=erggmessi,properties={},legacy=false] (/127.91.188.214:44635) lost connection: Disconnected
+[21Feb2025 16:38:03.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: erggmessi[/127.91.188.214:58597] logged in with entity id 103150 at (836.3164285473468, 89.0, 687.3000000119209)
+[21Feb2025 16:38:03.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi joined the game
+[21Feb2025 16:38:03.773] [Server thread/INFO] [Jade/]: Syncing config to erggmessi (bb84b437-98a4-3008-87ba-f9fc0f4a3b9c)
+[21Feb2025 16:40:19.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: erggmessi lost connection: Timed out
+[21Feb2025 16:40:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: erggmessi left the game
