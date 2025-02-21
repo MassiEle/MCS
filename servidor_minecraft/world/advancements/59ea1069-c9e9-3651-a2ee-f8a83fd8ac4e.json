@@ -6760,6 +6760,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-21 21:13:22 +0000"
+    },
+    "done": true
+  },
   "create_dd:recipes/create_dd.palettes/crafting/decor/black_asphalt_block": {
     "criteria": {
       "has_dyed_item": "2025-02-21 20:38:55 +0000"

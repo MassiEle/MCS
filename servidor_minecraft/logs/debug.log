@@ -19675,3 +19675,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 21:13:22.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Take Aim]
 [21Feb2025 21:13:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by ImNotEternal_BG
 [21Feb2025 21:13:32.384] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740172412384
+[21Feb2025 21:15:29.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by filopopo
+[21Feb2025 21:15:30.909] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740172530909
+[21Feb2025 21:15:42.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by ImNotEternal_BG
+[21Feb2025 21:15:43.532] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740172543518
+[21Feb2025 21:16:31.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by filopopo
+[21Feb2025 21:16:32.912] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740172592909
+[21Feb2025 21:17:21.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was shot by ImNotEternal_BG
+[21Feb2025 21:17:23.161] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740172643149
+[21Feb2025 21:17:52.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 21:17:52.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 21:22:20.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 21:22:21.613] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740172941613
+[21Feb2025 21:22:52.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 21:22:52.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 21:23:25.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]

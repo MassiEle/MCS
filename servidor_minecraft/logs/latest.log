@@ -1239,3 +1239,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 21:12:28.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by ImNotEternal_BG
 [21Feb2025 21:13:22.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG has made the advancement [Take Aim]
 [21Feb2025 21:13:31.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by ImNotEternal_BG
+[21Feb2025 21:15:29.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by filopopo
+[21Feb2025 21:15:42.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was slain by ImNotEternal_BG
+[21Feb2025 21:16:31.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by filopopo
+[21Feb2025 21:17:21.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was shot by ImNotEternal_BG
+[21Feb2025 21:22:20.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 21:23:25.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
