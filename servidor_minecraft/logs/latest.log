@@ -1245,3 +1245,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [21Feb2025 21:17:21.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was shot by ImNotEternal_BG
 [21Feb2025 21:22:20.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
 [21Feb2025 21:23:25.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
+[21Feb2025 21:27:14.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was shot by Skeleton
+[21Feb2025 21:28:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
+[21Feb2025 21:28:14.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImNotEternal_BG was slain by Zombie
+[21Feb2025 21:28:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImNotEternal_BG: Applied effect Night Vision to ImNotEternal_BG]
+[21Feb2025 21:32:06.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 21:33:02.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo fell from a high place
+[21Feb2025 21:33:57.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExAli56[/127.228.40.191:47255] logged in with entity id 187809 at (946.4069326869258, 63.0, 1331.840146663996)
+[21Feb2025 21:33:57.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExAli56 joined the game
+[21Feb2025 21:33:57.042] [Server thread/INFO] [Jade/]: Syncing config to ExAli56 (a8e23a24-b066-373d-9982-789deb7c2b06)
+[21Feb2025 21:34:33.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ExAli56> ma ala è rientrato???
