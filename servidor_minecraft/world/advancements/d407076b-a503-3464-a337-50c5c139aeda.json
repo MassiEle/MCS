@@ -6434,6 +6434,90 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-21 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-21 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-21 23:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-21 23:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-02-21 23:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-21 23:36:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-02-21 23:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-21 23:45:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-21 23:45:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-02-21 23:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-21 23:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-21 23:45:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-02-21 23:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-21 23:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
@@ -6452,12 +6536,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-02-21 23:45:20 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
@@ -6470,21 +6548,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-02-21 23:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alloybrick": {
-    "criteria": {
-      "has_brick": "2025-02-21 23:45:45 +0000"
     },
     "done": true
   },
@@ -6512,27 +6578,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-21 23:45:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-02-21 23:36:28 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/long_red_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-21 23:36:28 +0000"
     },
     "done": true
   },
@@ -6548,18 +6596,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-02-21 23:45:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-02-21 23:36:28 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_smelting": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
@@ -6569,12 +6605,6 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-02-21 23:36:47 +0000"
     },
     "done": true
   },
@@ -6608,21 +6638,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-02-21 23:34:54 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/corner_red_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-02-21 23:36:28 +0000"
     },
     "done": true
   },
@@ -6662,33 +6680,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-02-21 23:45:45 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blastbrick": {
-    "criteria": {
-      "has_item": "2025-02-21 23:45:45 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/short_red_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-02-21 23:45:45 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/short_red_brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-21 23:45:52 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_coalburner": {
+    "criteria": {
+      "has_item": "2025-02-21 23:52:56 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_diesel": {
+    "criteria": {
+      "has_item": "2025-02-21 23:52:56 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_woodburner": {
+    "criteria": {
+      "has_item": "2025-02-21 23:52:56 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_oilburner": {
+    "criteria": {
+      "has_item": "2025-02-21 23:52:56 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_long": {
+    "criteria": {
+      "has_item": "2025-02-21 23:52:56 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_streamlined": {
+    "criteria": {
+      "has_item": "2025-02-21 23:52:56 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
+    "criteria": {
+      "has_item": "2025-02-21 23:52:56 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/fan_catalyst/smoking_sail": {
+    "criteria": {
+      "has_campfire": "2025-02-21 23:52:56 +0000"
     },
     "done": true
   },
