@@ -893,3 +893,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [22Feb2025 00:26:07.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: filopopo[/127.130.251.235:50445] logged in with entity id 1709 at (2825.0021218896295, 80.0, -771.6187561661095)
 [22Feb2025 00:26:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo joined the game
 [22Feb2025 00:26:07.689] [Server thread/INFO] [Jade/]: Syncing config to filopopo (d407076b-a503-3464-a337-50c5c139aeda)
+[22Feb2025 00:45:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was shot by Skeleton
+[22Feb2025 00:45:31.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo lost connection: Disconnected
+[22Feb2025 00:45:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo left the game

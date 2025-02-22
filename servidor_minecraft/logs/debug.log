@@ -15341,3 +15341,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_dd:rubber_slab'
 [22Feb2025 00:29:21.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Feb2025 00:34:21.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Feb2025 00:34:21.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 00:39:21.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 00:39:21.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 00:44:21.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Feb2025 00:44:21.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Feb2025 00:45:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo was shot by Skeleton
+[22Feb2025 00:45:26.584] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1740185126534
+[22Feb2025 00:45:31.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: filopopo lost connection: Disconnected
+[22Feb2025 00:45:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: filopopo left the game
